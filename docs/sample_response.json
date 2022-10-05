@@ -1,0 +1,3562 @@
+{
+    "total": 12,
+    "total_all": 12,
+    "total_pro": 10,
+    "total_private": 2,
+    "total_active": 0,
+    "total_inactive": 0,
+    "total_shippable": 0,
+    "max_pages": 1,
+    "ads": [
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI27316_344168703",
+            "values": [
+              "ubiflow_ACCPI27316_344168703"
+            ],
+            "value_label": "ubiflow_ACCPI27316_344168703",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "152",
+            "values": [
+              "152"
+            ],
+            "key_label": "Surface",
+            "value_label": "152 m²",
+            "generic": true
+          },
+          {
+            "key": "land_plot_surface",
+            "value": "40",
+            "values": [
+              "40"
+            ],
+            "key_label": "Surface du terrain",
+            "value_label": "40 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "6",
+            "values": [
+              "6"
+            ],
+            "key_label": "Pièces",
+            "value_label": "6",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "d",
+            "values": [
+              "d"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "D",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "b",
+            "values": [
+              "b"
+            ],
+            "key_label": "GES",
+            "value_label": "B",
+            "generic": true
+          },
+          {
+            "key": "elevator",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Ascenseur",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "floor_number",
+            "value": "0",
+            "values": [
+              "0"
+            ],
+            "key_label": "Étage du bien",
+            "value_label": "0",
+            "generic": true
+          },
+          {
+            "key": "nb_parkings",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Places de parking",
+            "value_label": "2",
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "4",
+            "values": [
+              "4"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "4 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "3884-5052857",
+            "values": [
+              "3884-5052857"
+            ],
+            "key_label": "Référence",
+            "value_label": "3884-5052857",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          },
+          {
+            "key": "old_price",
+            "value": "570000",
+            "values": [
+              "570000"
+            ],
+            "value_label": "570000",
+            "generic": false
+          }
+        ],
+        "body": "Centre village\n\nAu centre de notre beau village et au calme, insolite maison de village entièrement rénovée avec gout, 6 P+Cuisine équipée plus T1 44m2 loué, TBE, Superbe espace jour en 1/2 niveau ouvert sur terrasse 43m2, 3 chambres (poss +), 2 bains, Caves 55m2, terrain/parkings 40m2. Rapport locatif T1 : 6000 €uros/An\n***   04.76.89.64.64\nRéférence annonce : 3884-5052857\nDate de réalisation du diagnostic : 09/05/2022\nLes honoraires sont à la charge du vendeur\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 12\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1830 € et 2540 € par an. Prix moyens des énergies indexés sur l'année 2021 (abonnements compris)",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-05-19 21:41:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/c8/93/0fc893e565dfbdabfb64f840cb2454f96e4ccdaf.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/c8/93/0fc893e565dfbdabfb64f840cb2454f96e4ccdaf.jpg?rule=ad-small",
+          "nb_images": 11,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/c8/93/0fc893e565dfbdabfb64f840cb2454f96e4ccdaf.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d7/92/6e/d7926eef10ee5fa995290a31e1a087cf06e12663.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d1/72/fe/d172fecf21d81cd5724f5dfa137fde38949f2db5.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/74/6f/8a/746f8aee5945b4dd4f43c297fd92d1faffaa6ebb.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/8d/4e/c58d4e78a886c1616087cd82f0930ebb1c45eb28.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/bd/04/c7bd04d8d22def27d6345f4c6acea1bfc2c84b5e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/76/14/21761483821701fa105e892096b357ab865d63b6.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/6c/67/d4/6c67d4a2d2d4f91d86b2b237441a106b173487e4.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/6a/02/5e6a020734d65ced8cbc922a76c39164f9adaf34.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/c8/14/4bc8147947a2d596b20713a9df1d1cb97602b3e0.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/71/01/f5/7101f5ceae9f0de20dbb2708d06c07c07ac2ab2c.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/c8/93/0fc893e565dfbdabfb64f840cb2454f96e4ccdaf.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d7/92/6e/d7926eef10ee5fa995290a31e1a087cf06e12663.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d1/72/fe/d172fecf21d81cd5724f5dfa137fde38949f2db5.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/74/6f/8a/746f8aee5945b4dd4f43c297fd92d1faffaa6ebb.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/8d/4e/c58d4e78a886c1616087cd82f0930ebb1c45eb28.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/bd/04/c7bd04d8d22def27d6345f4c6acea1bfc2c84b5e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/76/14/21761483821701fa105e892096b357ab865d63b6.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/6c/67/d4/6c67d4a2d2d4f91d86b2b237441a106b173487e4.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/6a/02/5e6a020734d65ced8cbc922a76c39164f9adaf34.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/c8/14/4bc8147947a2d596b20713a9df1d1cb97602b3e0.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/71/01/f5/7101f5ceae9f0de20dbb2708d06c07c07ac2ab2c.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/c8/93/0fc893e565dfbdabfb64f840cb2454f96e4ccdaf.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d7/92/6e/d7926eef10ee5fa995290a31e1a087cf06e12663.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d1/72/fe/d172fecf21d81cd5724f5dfa137fde38949f2db5.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/74/6f/8a/746f8aee5945b4dd4f43c297fd92d1faffaa6ebb.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c5/8d/4e/c58d4e78a886c1616087cd82f0930ebb1c45eb28.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/bd/04/c7bd04d8d22def27d6345f4c6acea1bfc2c84b5e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/76/14/21761483821701fa105e892096b357ab865d63b6.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/6c/67/d4/6c67d4a2d2d4f91d86b2b237441a106b173487e4.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/6a/02/5e6a020734d65ced8cbc922a76c39164f9adaf34.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/c8/14/4bc8147947a2d596b20713a9df1d1cb97602b3e0.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/71/01/f5/7101f5ceae9f0de20dbb2708d06c07c07ac2ab2c.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-10-04 16:51:12",
+        "list_id": 2164415100,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "15611237",
+          "user_id": "66fc2364-c7d6-4f8f-aa1d-767194af4536",
+          "type": "pro",
+          "name": "CHRISTIAN JOUTY IMMOBILIER",
+          "siren": "382607091",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          520000
+        ],
+        "price_cents": 52000000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison de village 6 pièces 152 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2164415100.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI2248374_340496676",
+            "values": [
+              "ubiflow_ACCPI2248374_340496676"
+            ],
+            "value_label": "ubiflow_ACCPI2248374_340496676",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "94",
+            "values": [
+              "94"
+            ],
+            "key_label": "Surface",
+            "value_label": "94 m²",
+            "generic": true
+          },
+          {
+            "key": "land_plot_surface",
+            "value": "643",
+            "values": [
+              "643"
+            ],
+            "key_label": "Surface du terrain",
+            "value_label": "643 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "5",
+            "values": [
+              "5"
+            ],
+            "key_label": "Pièces",
+            "value_label": "5",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "c",
+            "values": [
+              "c"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "C",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "c",
+            "values": [
+              "c"
+            ],
+            "key_label": "GES",
+            "value_label": "C",
+            "generic": true
+          },
+          {
+            "key": "elevator",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Ascenseur",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "floor_number",
+            "value": "0",
+            "values": [
+              "0"
+            ],
+            "key_label": "Étage du bien",
+            "value_label": "0",
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "4",
+            "values": [
+              "4"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "4 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "3950D",
+            "values": [
+              "3950D"
+            ],
+            "key_label": "Référence",
+            "value_label": "3950D",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "virtual_tour",
+            "value": "https://my.matterport.com/show/?m=JZaajD6Kpzy",
+            "values": [
+              "https://my.matterport.com/show/?m=JZaajD6Kpzy"
+            ],
+            "value_label": "https://my.matterport.com/show/?m=JZaajD6Kpzy",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          },
+          {
+            "key": "old_price",
+            "value": "430000",
+            "values": [
+              "430000"
+            ],
+            "value_label": "430000",
+            "generic": false
+          }
+        ],
+        "body": "Maison Gieres\n\nL'agence vous proposes en exclusivité cette maison mitoyenne d'un côté, datant des années 1800 totalement rénové il y a une vingtaine d'années, comportant 5 pièces réparties sur environ 100m2 sans compter les combles.\n Elle est pourvue d'un grand espace séjour cuisine, deux chambres plus possibilité d'aménager deux chambres dans les combles. Une salle de bain avec baignoire. Il y a également une extension d'environ 20m2 attenant à la maison plus un cabanon en bois.\n\nCe bien étant à 1 min d'un arrêt de bus, n'ayez pas d'inquiétude pour tous vos déplacements. Avec un établissement scolaire à 5 min, cette maison est bien placée.\n\nDe plus,  un jardin de 643 m2  complètent cette maison.\n\nCette maison bénéficie de radiateurs, pour un chauffage marchant au gaz.\n\nÀ propos du bilan énergétique, l'indice DPE de cette maison est de catégorie C et l'indice GES est de classe C.\n\nSon prix est de 400 000 euros\n\nN'hésitez pas à prendre contact avec Jérôme de l'agence Guy Hoquet au 0658400767 pour une première visite. Référence : 3950D\nRéférence annonce : 3950D\nConsommation énergétique : 124 kWh/m²/an\nEmission de gaz à effet de serre : 25 CO2/m²/an\nLes honoraires sont à la charge du vendeur",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-04-19 10:55:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/75/b0/b775b0dac180d4f025f3a7047781ff9ae9af013f.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/75/b0/b775b0dac180d4f025f3a7047781ff9ae9af013f.jpg?rule=ad-small",
+          "nb_images": 15,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/75/b0/b775b0dac180d4f025f3a7047781ff9ae9af013f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/61/34/0161342621a03bb674b736f1be6e31819c3ad5a6.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/4e/a6/fa/4ea6fadec94cabf6eeab860c758e6f3560cb66c1.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/a2/75/16a275bec9acd4b870bc96d37fdbc507aca553bc.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/da/13/dd/da13ddc0584505c9a405c5ebfff41bd3246fad39.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/9b/4a/ce9b4a6c24f8e536c9842b91e226b4beb76fbd8d.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b0/24/22/b024224c300f8d74658726a1d53140e03921939e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/7b/a3/5a7ba34006c994a7e079a010e9cd35e483ffcec1.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/00/51/3d0051e2043c07d113e5cd3d0669abed858c24f5.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/d8/a5/65d8a5d8aebc0f213facd456f0483a6c4fb6410e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/29/43/c1/2943c120ab150dd0799fdeae08e9eb34ae7ca474.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ed/c9/de/edc9de6f68bec5875eb512197a9046e4611c2045.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/88/46/62/884662a05319ea5e50457b7ebbac7033065d84b6.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/57/5f/64575ff82a820ba318d3c240cb5c23d35b819f6e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/34/9f/1d349f5c675a28da0333ad4a2b5e92dd14c50156.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/75/b0/b775b0dac180d4f025f3a7047781ff9ae9af013f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/61/34/0161342621a03bb674b736f1be6e31819c3ad5a6.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/4e/a6/fa/4ea6fadec94cabf6eeab860c758e6f3560cb66c1.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/a2/75/16a275bec9acd4b870bc96d37fdbc507aca553bc.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/da/13/dd/da13ddc0584505c9a405c5ebfff41bd3246fad39.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/9b/4a/ce9b4a6c24f8e536c9842b91e226b4beb76fbd8d.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b0/24/22/b024224c300f8d74658726a1d53140e03921939e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/7b/a3/5a7ba34006c994a7e079a010e9cd35e483ffcec1.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/00/51/3d0051e2043c07d113e5cd3d0669abed858c24f5.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/d8/a5/65d8a5d8aebc0f213facd456f0483a6c4fb6410e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/29/43/c1/2943c120ab150dd0799fdeae08e9eb34ae7ca474.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ed/c9/de/edc9de6f68bec5875eb512197a9046e4611c2045.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/88/46/62/884662a05319ea5e50457b7ebbac7033065d84b6.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/57/5f/64575ff82a820ba318d3c240cb5c23d35b819f6e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/34/9f/1d349f5c675a28da0333ad4a2b5e92dd14c50156.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/75/b0/b775b0dac180d4f025f3a7047781ff9ae9af013f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/61/34/0161342621a03bb674b736f1be6e31819c3ad5a6.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/4e/a6/fa/4ea6fadec94cabf6eeab860c758e6f3560cb66c1.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/a2/75/16a275bec9acd4b870bc96d37fdbc507aca553bc.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/da/13/dd/da13ddc0584505c9a405c5ebfff41bd3246fad39.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ce/9b/4a/ce9b4a6c24f8e536c9842b91e226b4beb76fbd8d.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b0/24/22/b024224c300f8d74658726a1d53140e03921939e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/7b/a3/5a7ba34006c994a7e079a010e9cd35e483ffcec1.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3d/00/51/3d0051e2043c07d113e5cd3d0669abed858c24f5.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/65/d8/a5/65d8a5d8aebc0f213facd456f0483a6c4fb6410e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/29/43/c1/2943c120ab150dd0799fdeae08e9eb34ae7ca474.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ed/c9/de/edc9de6f68bec5875eb512197a9046e4611c2045.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/88/46/62/884662a05319ea5e50457b7ebbac7033065d84b6.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/57/5f/64575ff82a820ba318d3c240cb5c23d35b819f6e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/34/9f/1d349f5c675a28da0333ad4a2b5e92dd14c50156.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-10-04 11:22:38",
+        "list_id": 2149601942,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "53522452",
+          "user_id": "792b2b6e-562b-48f8-8cf0-f7d1a924729f",
+          "type": "pro",
+          "name": "l'agence GAYA",
+          "siren": "853452399",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          400000
+        ],
+        "price_cents": 40000000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison 5 pièces 94 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2149601942.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "type_real_estate_sale",
+            "value": "ancien",
+            "values": [
+              "ancien"
+            ],
+            "key_label": "Type de vente",
+            "value_label": "Ancien",
+            "generic": true
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "157",
+            "values": [
+              "157"
+            ],
+            "key_label": "Surface",
+            "value_label": "157 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "7",
+            "values": [
+              "7"
+            ],
+            "key_label": "Pièces",
+            "value_label": "7",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "e",
+            "values": [
+              "e"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "E",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "e",
+            "values": [
+              "e"
+            ],
+            "key_label": "GES",
+            "value_label": "E",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "pro_rates_link",
+            "value": "https://www.mdc-gestionprivee.com",
+            "values": [
+              "https://www.mdc-gestionprivee.com"
+            ],
+            "value_label": "https://www.mdc-gestionprivee.com",
+            "generic": false
+          },
+          {
+            "key": "nb_floors_house",
+            "value": "3",
+            "values": [
+              "3"
+            ],
+            "key_label": "Nombre de niveaux",
+            "value_label": "3",
+            "generic": true
+          },
+          {
+            "key": "nb_parkings",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Places de parking",
+            "value_label": "2",
+            "generic": true
+          },
+          {
+            "key": "outside_access",
+            "value": "",
+            "values": [
+              "terrace"
+            ],
+            "key_label": "Extérieur",
+            "value_label": "Terrasse",
+            "values_label": [
+              "Terrasse"
+            ],
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "custom_ref",
+            "value": "2018108",
+            "values": [
+              "2018108"
+            ],
+            "key_label": "Référence",
+            "value_label": "2018108",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          }
+        ],
+        "body": "Le Cabinet MDC GESTION PRIVEE vous propose à la vente cette agréable maison de de Village au cœur de Gières. \n\n- Possibilité résidence principale pour grande famille nombreuse ! \n- possibilité résidence principale avec une dépendance en RDC que l'on peut louer de suite avec une loyer de 600 euros par mois. \n- Possibilité de faire 3 appartements distinct !!!! 1 par niveau ! Avec pour le 2er et le 3e niveau un escalier commun distinct des logements comme dans un immeuble! \n\nMaison datant des années 1900, qui se compose de 3 niveaux qui à été rénovée et entretenue tout au long des années et de ses différents propriétaires. cette maison n'a pas de terrain, c'est une véritable maison de village ! \nElle possède cependant une agréable terrasse de plus de 20m2 ainsi qu'un garage fermé pouvant accueillir une voiture ainsi que plusieurs véhicules à deux roues. Devant la maison vous y trouverez une place de parking extérieur. \n\nLE RDC est un véritable petit appartement au normes PMR de 52m2 entièrement refait à neuf. \non n'y trouve 3 pièces et une chambre dont une petite cuisine et une salle de bain entièrement équipé et récente. \n\nle 1er étage, l'accès se fait par l'extérieur et par la terrasse.  \nil se compose d'une grande pièce de vie avec cuisine ouverte et WC. \npossibilité d'aménagement et de gain de place. il faut prévoir un cuisine. \ntotal de la surface pour une pièces de vie;  46m2 !! \n\nLe 2 étage et dernier étage se compose de 3 chambres. ( 18m2, 10.50m2 et 11m2)  \non n'y trouve également une salle de bain qui faudrait rafraichir. \n\nLes travaux récents effectués sur cette maison: \n\n- volets roulant électriques\n- les huisseries  en double vitrage \n- façade refaite\n- électricité refait en 2009 \n- chaudière changée en 2008 \n- RDC clim réversible\n\nTaxe foncière: 1624 euros \nConsommation énergétique : 247 kWh/m²/an (famille de 7 personnes)\nEmission de gaz à effet de serre : 40 CO2/m²/an\n \nA visiter sans tarder - Prix 399 000 Euros FAI HONORAIRE A CHARGE DU VENDEUR CONTACTER Monsieur CASATI PIERREJEAN 0614226343 - REF: 2018108- . SARL MDC GESTION PRIVEE - GESTION DE PATRIMOINE - PRÊT IMMOBILIER -TRANSACTION IMMOBILIÈRE ET FONCIÈRE Transactions sur immeubles et fonds de commerce - carte professionnelle n° CPI 3801 2018 000 024 714 - APE : 7022Z- Courtiers en crédit (COBSP-ORIAS n°10057685) – Courtiers en assurances (ORIAS n°10057685) Conseil en investissements financiers, Membre de l’ANACOFI-CIF n°E002240 Association agréée par l’AMF. CNIL n°1849466v0",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-10-04 10:38:24",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/eb/86/61/eb86616d5d3c3053bd875643a8b84fda90917579.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/eb/86/61/eb86616d5d3c3053bd875643a8b84fda90917579.jpg?rule=ad-small",
+          "nb_images": 5,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/eb/86/61/eb86616d5d3c3053bd875643a8b84fda90917579.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e8/17/4b/e8174bb84bfb4d738d9c70f8e5fa0afee1a2bfb3.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/49/a5/7049a51e800aa8c0f6361d9f33e5c86ea3cdb7fb.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/42/cd/84/42cd840418069573a9eef644ddb38a2d19533509.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/82/a1/b5/82a1b5ab8c382de750c5a95022ee4c02af96adc6.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/eb/86/61/eb86616d5d3c3053bd875643a8b84fda90917579.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e8/17/4b/e8174bb84bfb4d738d9c70f8e5fa0afee1a2bfb3.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/49/a5/7049a51e800aa8c0f6361d9f33e5c86ea3cdb7fb.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/42/cd/84/42cd840418069573a9eef644ddb38a2d19533509.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/82/a1/b5/82a1b5ab8c382de750c5a95022ee4c02af96adc6.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/eb/86/61/eb86616d5d3c3053bd875643a8b84fda90917579.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e8/17/4b/e8174bb84bfb4d738d9c70f8e5fa0afee1a2bfb3.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/70/49/a5/7049a51e800aa8c0f6361d9f33e5c86ea3cdb7fb.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/42/cd/84/42cd840418069573a9eef644ddb38a2d19533509.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/82/a1/b5/82a1b5ab8c382de750c5a95022ee4c02af96adc6.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-10-04 10:38:24",
+        "list_id": 2231799714,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": true,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": true,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "37728799",
+          "user_id": "7a332423-2609-40d3-9b42-cceb812ff5d4",
+          "type": "pro",
+          "name": "MDC GESTION PRIVEE",
+          "siren": "524189321",
+          "pro_rates_link": "https://www.mdc-gestionprivee.com",
+          "no_salesmen": true,
+          "activity_sector": "2"
+        },
+        "price": [
+          399000
+        ],
+        "price_cents": 39900000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Belle maison de village coeur de gieres - possibilité immeuble de rendement",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2231799714.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI74071_361007941",
+            "values": [
+              "ubiflow_ACCPI74071_361007941"
+            ],
+            "value_label": "ubiflow_ACCPI74071_361007941",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "82",
+            "values": [
+              "82"
+            ],
+            "key_label": "Surface",
+            "value_label": "82 m²",
+            "generic": true
+          },
+          {
+            "key": "land_plot_surface",
+            "value": "615",
+            "values": [
+              "615"
+            ],
+            "key_label": "Surface du terrain",
+            "value_label": "615 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "4",
+            "values": [
+              "4"
+            ],
+            "key_label": "Pièces",
+            "value_label": "4",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "d",
+            "values": [
+              "d"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "D",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "b",
+            "values": [
+              "b"
+            ],
+            "key_label": "GES",
+            "value_label": "B",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "pro_rates_link",
+            "value": "https://bskimmobilier.com/bareme",
+            "values": [
+              "https://bskimmobilier.com/bareme"
+            ],
+            "value_label": "https://bskimmobilier.com/bareme",
+            "generic": false
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "3",
+            "values": [
+              "3"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "3 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "191876",
+            "values": [
+              "191876"
+            ],
+            "key_label": "Référence",
+            "value_label": "191876",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          }
+        ],
+        "body": "GIÈRES - MAISON 4 PIÈCES DE 82 M² AVEC PISCINE HORS SOL sur TERRAIN DE 615 M²\n\nEn EXCLUSIVITÉ, à proximité du centre ville, venez découvrir cette jolie maison INDIVIDUELLE des années 60, située dans une impasse résidentielle.\n\nComposée d’un spacieux séjour très lumineux avec cuisine ouverte, bénéficiant d'un accès à une grande terrasse bien exposée, 3 chambres, une salle d'eau avec WC.\n\nUne véranda vient compléter cet espace.\n\nEn rez-de-jardin vous trouverez 80m² d'espaces faisant office de buanderie, garage double, rangement.\n\nPetit + : la cuisine d'été a été aménagée en studio indépendant.\n\nOn aime :\n\n- Les fenêtres en triple vitrage PVC, avec moustiquaires et volets roulants électriques,\n\n- Le chauffage économique grâce à une pompe à chaleur Air / Air , distribué par des clim' réversibles dans chaque pièce,\n\n- La grande cour avec son carport, permettant l'accès et le stationnement de plusieurs véhicules et camping-car,\n\n- Entièrement rénovée.\n\nSituée à 10min à pieds du centre de Gières, il ne vous faudra que quelques minutes pour prendre la Rocade, et le centre de Grenoble sera facilement accessible à vélo. Un arrêt de bus se trouve également à proximité de la maison.\n\nBien rare sur le marché, à visiter rapidement sur rendez-vous.\n\nContactez votre conseiller BSK Immobilier : BARTHELEMY LAURIANE - Agent commercial (EI) immatriculé au RSAC de Grenoble sous le numéro 83993006200014 - Honoraires d'agence à la charge du vendeur\nRéférence annonce : 191876\nDate de réalisation du diagnostic : 06/09/2022\nLes honoraires sont à la charge du vendeur\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1140 € et 1590 € par an. Prix moyens des énergies indexés sur l'année 2021 (abonnements compris)",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-10-03 11:03:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/5a/71/165a719430466a0108aad85b8e8dfd912b8281ec.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/5a/71/165a719430466a0108aad85b8e8dfd912b8281ec.jpg?rule=ad-small",
+          "nb_images": 13,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/5a/71/165a719430466a0108aad85b8e8dfd912b8281ec.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/96/12/6296128f6861ba360707858c95c3ebd1cf48972c.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/bb/bf/1dbbbf5c1c592cd5ceeed712d255a1845622bfcd.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/15/c9/a315c99a29a0ce6ee91235769db00d0ec8f2a6ef.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0a/92/39/0a92397b68f87ecc97af279aa90013b89764172f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fc/7e/e7/fc7ee723874fd8439ad7ad6ce68ccca1ecb02919.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/cb/c0/0e/cbc00ee7dc0882ec3f0d5bdf9abee8eb91568150.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/c1/98/b7c198cacfdcaafdfe1832d2bcd47d4259224e7b.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/19/2a/88/192a885554eea80c4d7b6c92eb1ea63ab5920aad.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b5/ae/1e/b5ae1e09d04cca78b3ecc43584739838e200a27b.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/93/32/e6/9332e6aacbcaf23870ba718f523eb27be5fa9c8e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/96/a1/f1/96a1f1b52306fc78a63d064756eb9098c3082add.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0d/92/15/0d921569e36667d08f638c7a09092eb562bce45a.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/5a/71/165a719430466a0108aad85b8e8dfd912b8281ec.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/96/12/6296128f6861ba360707858c95c3ebd1cf48972c.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/bb/bf/1dbbbf5c1c592cd5ceeed712d255a1845622bfcd.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/15/c9/a315c99a29a0ce6ee91235769db00d0ec8f2a6ef.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0a/92/39/0a92397b68f87ecc97af279aa90013b89764172f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fc/7e/e7/fc7ee723874fd8439ad7ad6ce68ccca1ecb02919.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/cb/c0/0e/cbc00ee7dc0882ec3f0d5bdf9abee8eb91568150.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/c1/98/b7c198cacfdcaafdfe1832d2bcd47d4259224e7b.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/19/2a/88/192a885554eea80c4d7b6c92eb1ea63ab5920aad.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b5/ae/1e/b5ae1e09d04cca78b3ecc43584739838e200a27b.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/93/32/e6/9332e6aacbcaf23870ba718f523eb27be5fa9c8e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/96/a1/f1/96a1f1b52306fc78a63d064756eb9098c3082add.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0d/92/15/0d921569e36667d08f638c7a09092eb562bce45a.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/16/5a/71/165a719430466a0108aad85b8e8dfd912b8281ec.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/96/12/6296128f6861ba360707858c95c3ebd1cf48972c.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1d/bb/bf/1dbbbf5c1c592cd5ceeed712d255a1845622bfcd.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/15/c9/a315c99a29a0ce6ee91235769db00d0ec8f2a6ef.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0a/92/39/0a92397b68f87ecc97af279aa90013b89764172f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fc/7e/e7/fc7ee723874fd8439ad7ad6ce68ccca1ecb02919.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/cb/c0/0e/cbc00ee7dc0882ec3f0d5bdf9abee8eb91568150.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/c1/98/b7c198cacfdcaafdfe1832d2bcd47d4259224e7b.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/19/2a/88/192a885554eea80c4d7b6c92eb1ea63ab5920aad.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b5/ae/1e/b5ae1e09d04cca78b3ecc43584739838e200a27b.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/93/32/e6/9332e6aacbcaf23870ba718f523eb27be5fa9c8e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/96/a1/f1/96a1f1b52306fc78a63d064756eb9098c3082add.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0d/92/15/0d921569e36667d08f638c7a09092eb562bce45a.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-10-03 11:03:00",
+        "list_id": 2231638592,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "4667029",
+          "user_id": "e8a856af-8b58-4835-84e9-04b38d0355f2",
+          "type": "pro",
+          "name": "BSK IMMOBILIER",
+          "siren": "521907519",
+          "pro_rates_link": "https://bskimmobilier.com/bareme",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          435000
+        ],
+        "price_cents": 43500000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison 4 pièces 82 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2231638592.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI494918_343335006",
+            "values": [
+              "ubiflow_ACCPI494918_343335006"
+            ],
+            "value_label": "ubiflow_ACCPI494918_343335006",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "250",
+            "values": [
+              "250"
+            ],
+            "key_label": "Surface",
+            "value_label": "250 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "9",
+            "values": [
+              "9"
+            ],
+            "key_label": "Pièces",
+            "value_label": "9",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "f",
+            "values": [
+              "f"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "F",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "c",
+            "values": [
+              "c"
+            ],
+            "key_label": "GES",
+            "value_label": "C",
+            "generic": true
+          },
+          {
+            "key": "elevator",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Ascenseur",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "floor_number",
+            "value": "0",
+            "values": [
+              "0"
+            ],
+            "key_label": "Étage du bien",
+            "value_label": "0",
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "7",
+            "values": [
+              "7"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "7 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "506-22",
+            "values": [
+              "506-22"
+            ],
+            "key_label": "Référence",
+            "value_label": "506-22",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          },
+          {
+            "key": "old_price",
+            "value": "510000",
+            "values": [
+              "510000"
+            ],
+            "value_label": "510000",
+            "generic": false
+          }
+        ],
+        "body": "MAISON GIERES - 9 pièce(s) - 265 m2\n\nVenez découvrir sur la commune de Gières cette belle maison d'environ  265 m² sur une parcelle de 1400 m² construite en 1980 sur 3 niveaux, le rez de chaussée peut être indépendant et  idéal pour un artisant  La maison se compose d'un hall d'entrée, un bureau et accès au garage double et dépendances. Au 2ème niveau : séjour cathédrale de 52 m² ouvrant sur une grande terrasse,  cuisine équipée de 15m², buanderie, salle de bains, wc indépendant et 2 chambres. Au 3 ème niveau: Mezzanine, 3 chambres, salle de bains et WC indépendant.Toutes les pièces sont équipées de placards. Exposition Sud /Est /Ouest. La toiture et l'isolation des combles ont été changés en 2012. DPE / 412 F GES/ 13 C La consomation électrique est d'environ 1600 euros/an. TF 5000 euros . Contact : Emmanuelle TOUCHE 06 14 93 71 90\nRéférence annonce : 506-22\nConsommation énergétique : 412 kWh/m²/an\nEmission de gaz à effet de serre : 13 CO2/m²/an\nLes honoraires sont à la charge du vendeur\nLogement à consommation énergétique excessive : classe F",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-05-12 21:56:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/51/83/a15183e5666dcd1047e22798be668d40786718b0.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/51/83/a15183e5666dcd1047e22798be668d40786718b0.jpg?rule=ad-small",
+          "nb_images": 13,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/51/83/a15183e5666dcd1047e22798be668d40786718b0.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b2/d1/af/b2d1afce199787c97b01baadc30616bcebc14afc.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/4c/c9/5e4cc95a3cc4b3e44798f75880899f9a52d21bf0.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/9c/ab/88/9cab881cd06d873a2070381b2b4733d5223379a5.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/f8/98/92f898a48b9115728f0374c529e6820360ee5477.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/36/a6/9236a60b4d85a43c1063860b27bb80f3d4828795.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c4/b3/a0/c4b3a0a786123e656529adf8a79b6c3aa9e8f16f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/12/93/35/129335b10320afcb3d9e2eade36490d3aa8c7ec8.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/8e/3b/bc/8e3bbcd0f9bbe60d1144c95f51b83b188ceca214.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/30/82/6b/30826b42e3a7fc20d60bf400a0ed32acf9eabeb9.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a9/c4/47/a9c447c29597f0fa5f676585458691e58d89df02.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/04/64/150464eb2598f45432ba569eeb0e863cf07d9c25.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/1b/89/151b89032c723e1140080b9489e487be6405de3d.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/51/83/a15183e5666dcd1047e22798be668d40786718b0.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b2/d1/af/b2d1afce199787c97b01baadc30616bcebc14afc.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/4c/c9/5e4cc95a3cc4b3e44798f75880899f9a52d21bf0.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/9c/ab/88/9cab881cd06d873a2070381b2b4733d5223379a5.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/f8/98/92f898a48b9115728f0374c529e6820360ee5477.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/36/a6/9236a60b4d85a43c1063860b27bb80f3d4828795.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c4/b3/a0/c4b3a0a786123e656529adf8a79b6c3aa9e8f16f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/12/93/35/129335b10320afcb3d9e2eade36490d3aa8c7ec8.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/8e/3b/bc/8e3bbcd0f9bbe60d1144c95f51b83b188ceca214.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/30/82/6b/30826b42e3a7fc20d60bf400a0ed32acf9eabeb9.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a9/c4/47/a9c447c29597f0fa5f676585458691e58d89df02.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/04/64/150464eb2598f45432ba569eeb0e863cf07d9c25.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/1b/89/151b89032c723e1140080b9489e487be6405de3d.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/51/83/a15183e5666dcd1047e22798be668d40786718b0.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b2/d1/af/b2d1afce199787c97b01baadc30616bcebc14afc.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5e/4c/c9/5e4cc95a3cc4b3e44798f75880899f9a52d21bf0.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/9c/ab/88/9cab881cd06d873a2070381b2b4733d5223379a5.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/f8/98/92f898a48b9115728f0374c529e6820360ee5477.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/36/a6/9236a60b4d85a43c1063860b27bb80f3d4828795.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c4/b3/a0/c4b3a0a786123e656529adf8a79b6c3aa9e8f16f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/12/93/35/129335b10320afcb3d9e2eade36490d3aa8c7ec8.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/8e/3b/bc/8e3bbcd0f9bbe60d1144c95f51b83b188ceca214.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/30/82/6b/30826b42e3a7fc20d60bf400a0ed32acf9eabeb9.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a9/c4/47/a9c447c29597f0fa5f676585458691e58d89df02.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/04/64/150464eb2598f45432ba569eeb0e863cf07d9c25.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/1b/89/151b89032c723e1140080b9489e487be6405de3d.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-10-01 18:08:08",
+        "list_id": 2161031688,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "15612311",
+          "user_id": "d35659c7-d28b-48a4-be2f-9a3a33186ca1",
+          "type": "pro",
+          "name": "PRO ACTIF IMMOBILER",
+          "siren": "438028532",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          495000
+        ],
+        "price_cents": 49500000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison 9 pièces 250 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2161031688.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ac3_26816_3650827",
+            "values": [
+              "ac3_26816_3650827"
+            ],
+            "value_label": "ac3_26816_3650827",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "138",
+            "values": [
+              "138"
+            ],
+            "key_label": "Surface",
+            "value_label": "138 m²",
+            "generic": true
+          },
+          {
+            "key": "land_plot_surface",
+            "value": "10336",
+            "values": [
+              "10336"
+            ],
+            "key_label": "Surface du terrain",
+            "value_label": "10336 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "6",
+            "values": [
+              "6"
+            ],
+            "key_label": "Pièces",
+            "value_label": "6",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "a",
+            "values": [
+              "a"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "A",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "a",
+            "values": [
+              "a"
+            ],
+            "key_label": "GES",
+            "value_label": "A",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "pro_rates_link",
+            "value": "https://media.immo-facile.com/segments/immo/catalog/images/manufacturers_bareme/291411.pdf",
+            "values": [
+              "https://media.immo-facile.com/segments/immo/catalog/images/manufacturers_bareme/291411.pdf"
+            ],
+            "value_label": "https://media.immo-facile.com/segments/immo/catalog/images/manufacturers_bareme/291411.pdf",
+            "generic": false
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "4",
+            "values": [
+              "4"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "4 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "CW1335",
+            "values": [
+              "CW1335"
+            ],
+            "key_label": "Référence",
+            "value_label": "CW1335",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          },
+          {
+            "key": "old_price",
+            "value": "565000",
+            "values": [
+              "565000"
+            ],
+            "value_label": "565000",
+            "generic": false
+          }
+        ],
+        "body": "Maison 6 pièces 139 m²\n\nRARE À LA VENTE !\n\nEn exclusivité chez Stéphane Plaza Immobilier Grenoble.\n\nBienvenue à Gières, commune avec toutes les commodités, où nous vous invitons à découvrir cette magnifique maison de 2016 qui offre un grand potentiel dont une partie du terrain constructible.\n\nLe rez-de-chaussée est composé d'un hall d'entrée avec plusieurs rangements dont un cellier donnant accès au garage de 25m2, d'un WC, d'une belle cuisine équipée ouverte sur une grande salle à manger et son coin salon. Nous trouverons également une suite parentale avec dressing et salle d'eau.\nÀ l'étage, 3 autres chambres spacieuses avec placards, une salle de bain et un WC séparé.\n\nVous serez séduit pas son grand terrain de 10336m2 (dont une partie boisée) clos, arboré et bordé par un petit ruisseau qui vient ajouter encore plus de charme à cette superbe propriété.\n\nAu niveau des prestations supplémentaires, vous trouverez : portail électrique, chauffage au sol, double vitrage, volets électriques.\n\nÀ voir sans attendre !\n\nN'hésitez pas à me contacter au 06.73.34.79.55. Claudia WIMMER (EI) Agent Commercial - Numéro RSAC : 853166064 - Grenoble.\n\nSurface : 139 m² \nPrix du bien : 545000.00 €\nHonoraires à la charge de : Vendeur\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : 0 € par an. Prix moyens des énergies indexés sur l'année Non communiqué (abonnements compris)",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-07-06 12:18:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/61/be/02/61be02b5078057e0389728038b50df5115312458.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/61/be/02/61be02b5078057e0389728038b50df5115312458.jpg?rule=ad-small",
+          "nb_images": 17,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/61/be/02/61be02b5078057e0389728038b50df5115312458.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/aa/29/0faa29d55daa6cd8716849e651e335201d5b7874.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b1/7e/83/b17e834be4484a3963ce7c09eb2a8d974c883275.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/bf/a2/e2bfa288ace9a898454421bdba6e1ca7ee15e78c.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ea/b4/4f/eab44fc4c28af3041d3bbba68d23449e723a7709.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/b6/79/7cb6797d1a8f15127920bb8bd03f0d424f1b8301.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/fc/54/5cfc54983172c68354df6c2879382c451b93bf0f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/0b/43/3e0b438b0f66a95f827f4f5e868535b11daf1799.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/13/ca/b3/13cab39c123c1ed32c5bd5a2ed51bcf81b6a816a.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/46/69/2f/46692f8b279d6755b361dbe9cd2cf7b78e7a3176.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/2f/99/5c2f99613e748cb42dc61d1026218b4edad98beb.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/a6/19/95a619cb1ec645200da4fde89a0dab27467f7638.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2c/6e/d7/2c6ed77a547bc8d7c0c021204b2a1b87bc36fac5.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/b3/ad/fbb3ad79003949c3ddcc109fa5c1e3ae972f1cbf.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/5a/d7/a15ad70e3f4bccd4daac7911158c120e663acdcd.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b6/ff/9d/b6ff9df1aae3074205f886faad045f6969a3aafd.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/gh/e6/96/ghe6962492111a0e98be066557699011d0c38585.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/61/be/02/61be02b5078057e0389728038b50df5115312458.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/aa/29/0faa29d55daa6cd8716849e651e335201d5b7874.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b1/7e/83/b17e834be4484a3963ce7c09eb2a8d974c883275.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/bf/a2/e2bfa288ace9a898454421bdba6e1ca7ee15e78c.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ea/b4/4f/eab44fc4c28af3041d3bbba68d23449e723a7709.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/b6/79/7cb6797d1a8f15127920bb8bd03f0d424f1b8301.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/fc/54/5cfc54983172c68354df6c2879382c451b93bf0f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/0b/43/3e0b438b0f66a95f827f4f5e868535b11daf1799.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/13/ca/b3/13cab39c123c1ed32c5bd5a2ed51bcf81b6a816a.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/46/69/2f/46692f8b279d6755b361dbe9cd2cf7b78e7a3176.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/2f/99/5c2f99613e748cb42dc61d1026218b4edad98beb.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/a6/19/95a619cb1ec645200da4fde89a0dab27467f7638.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2c/6e/d7/2c6ed77a547bc8d7c0c021204b2a1b87bc36fac5.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/b3/ad/fbb3ad79003949c3ddcc109fa5c1e3ae972f1cbf.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/5a/d7/a15ad70e3f4bccd4daac7911158c120e663acdcd.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b6/ff/9d/b6ff9df1aae3074205f886faad045f6969a3aafd.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/gh/e6/96/ghe6962492111a0e98be066557699011d0c38585.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/61/be/02/61be02b5078057e0389728038b50df5115312458.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/aa/29/0faa29d55daa6cd8716849e651e335201d5b7874.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b1/7e/83/b17e834be4484a3963ce7c09eb2a8d974c883275.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/bf/a2/e2bfa288ace9a898454421bdba6e1ca7ee15e78c.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ea/b4/4f/eab44fc4c28af3041d3bbba68d23449e723a7709.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/b6/79/7cb6797d1a8f15127920bb8bd03f0d424f1b8301.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/fc/54/5cfc54983172c68354df6c2879382c451b93bf0f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/0b/43/3e0b438b0f66a95f827f4f5e868535b11daf1799.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/13/ca/b3/13cab39c123c1ed32c5bd5a2ed51bcf81b6a816a.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/46/69/2f/46692f8b279d6755b361dbe9cd2cf7b78e7a3176.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/2f/99/5c2f99613e748cb42dc61d1026218b4edad98beb.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/a6/19/95a619cb1ec645200da4fde89a0dab27467f7638.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2c/6e/d7/2c6ed77a547bc8d7c0c021204b2a1b87bc36fac5.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/b3/ad/fbb3ad79003949c3ddcc109fa5c1e3ae972f1cbf.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a1/5a/d7/a15ad70e3f4bccd4daac7911158c120e663acdcd.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b6/ff/9d/b6ff9df1aae3074205f886faad045f6969a3aafd.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/gh/e6/96/ghe6962492111a0e98be066557699011d0c38585.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-09-29 22:13:48",
+        "list_id": 2187369961,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.169353,
+          "lng": 5.793113,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.793113,
+                45.169353
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "20226013",
+          "user_id": "0769f98f-c539-4f1d-9bb9-33d8ae0891e9",
+          "type": "pro",
+          "name": "STÉPHANE PLAZA IMMOBILIER GRENOBLE",
+          "siren": "884421538",
+          "pro_rates_link": "https://media.immo-facile.com/segments/immo/catalog/images/manufacturers_bareme/291411.pdf",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          545000
+        ],
+        "price_cents": 54500000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison 6 pièces 139 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2187369961.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI696934_350050051",
+            "values": [
+              "ubiflow_ACCPI696934_350050051"
+            ],
+            "value_label": "ubiflow_ACCPI696934_350050051",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "196",
+            "values": [
+              "196"
+            ],
+            "key_label": "Surface",
+            "value_label": "196 m²",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "d",
+            "values": [
+              "d"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "D",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "b",
+            "values": [
+              "b"
+            ],
+            "key_label": "GES",
+            "value_label": "B",
+            "generic": true
+          },
+          {
+            "key": "elevator",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Ascenseur",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "3",
+            "values": [
+              "3"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "3 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "1000",
+            "values": [
+              "1000"
+            ],
+            "key_label": "Référence",
+            "value_label": "1000",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          },
+          {
+            "key": "old_price",
+            "value": "570000",
+            "values": [
+              "570000"
+            ],
+            "value_label": "570000",
+            "generic": false
+          }
+        ],
+        "body": "Maison 196 m² Gières\n\nMaison de ville - Centre Gières\n\nTÉLÉPHONE :  06.13.27.58.44 \n\nL’AGENCE AUBRETON / Mr CAVALLI Florent / téléphone : 0613275844 / Agent Commercial en immobillier / RSAC 891908154 / cavalli@aubreton.com, vous propose à la vente : \n\nAu centre du village de Gières, découvrez à la vente cette charmante maison de ville de 196 m2 se composant d’une jolie cuisine équipée, d’un espace de vie spacieux et lumineux ouvert sur une grande terrasse de 43 m2 sans vis-à-vis. Retrouvez 2 belles chambres avec rangements ainsi qu’une suite parentale. Buanderie et deux salles de bain avec WC séparés en plus. Grande cave au sous-sol.\n\nStationnement double en extérieur.\n\nCette jolie maison dispose d’un studio attenant avec entrée séparé de 44m2 avec un revenu locatif annuel de 6 000€\n\nProfitez du calme et de l’espace de cette maison tout en profitant du centre de Gières avec ses commerces et ses commodités.\n\nA saisir rapidement !\nRéférence annonce : 1000\nDate de réalisation du diagnostic : 10/05/2022\nLes honoraires sont à la charge du vendeur",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-07-05 07:50:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/33/c1/23/33c123afb151de2a32690c5f97a85d9862ab5df5.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/33/c1/23/33c123afb151de2a32690c5f97a85d9862ab5df5.jpg?rule=ad-small",
+          "nb_images": 11,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/33/c1/23/33c123afb151de2a32690c5f97a85d9862ab5df5.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b3/1a/d6/b31ad6e5944a0cfec8498317b9f865c98a9dc9b2.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/be/2c/5f/be2c5f98c5277e88081f3f2f0267285f7bb86797.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/f4/83/fbf48320369d5fa02ae6e5c5dfb4b277fd766031.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/19/54/c3/1954c345706dfe35d5a51cfbb4271ea0782bcb40.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/fb/a8/7dfba828dff85e0862fdb20d1c77428a35f5a733.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/de/c0/3fdec0cece5110c83e72d3bc0ae2f5125e021c16.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/9d/c6/019dc624dde1262678708804ec3518c61c93a04b.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/56/6d/34/566d34531b0a079f55c4f910c12dc05d20aed806.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/df/ab/d1/dfabd1f5c729d27bd8d90db7c44b753b7b8a445b.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0e/d7/d9/0ed7d9195414b358b9d83cce9325857a9178347a.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/33/c1/23/33c123afb151de2a32690c5f97a85d9862ab5df5.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b3/1a/d6/b31ad6e5944a0cfec8498317b9f865c98a9dc9b2.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/be/2c/5f/be2c5f98c5277e88081f3f2f0267285f7bb86797.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/f4/83/fbf48320369d5fa02ae6e5c5dfb4b277fd766031.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/19/54/c3/1954c345706dfe35d5a51cfbb4271ea0782bcb40.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/fb/a8/7dfba828dff85e0862fdb20d1c77428a35f5a733.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/de/c0/3fdec0cece5110c83e72d3bc0ae2f5125e021c16.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/9d/c6/019dc624dde1262678708804ec3518c61c93a04b.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/56/6d/34/566d34531b0a079f55c4f910c12dc05d20aed806.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/df/ab/d1/dfabd1f5c729d27bd8d90db7c44b753b7b8a445b.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0e/d7/d9/0ed7d9195414b358b9d83cce9325857a9178347a.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/33/c1/23/33c123afb151de2a32690c5f97a85d9862ab5df5.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b3/1a/d6/b31ad6e5944a0cfec8498317b9f865c98a9dc9b2.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/be/2c/5f/be2c5f98c5277e88081f3f2f0267285f7bb86797.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/fb/f4/83/fbf48320369d5fa02ae6e5c5dfb4b277fd766031.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/19/54/c3/1954c345706dfe35d5a51cfbb4271ea0782bcb40.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7d/fb/a8/7dfba828dff85e0862fdb20d1c77428a35f5a733.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3f/de/c0/3fdec0cece5110c83e72d3bc0ae2f5125e021c16.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/01/9d/c6/019dc624dde1262678708804ec3518c61c93a04b.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/56/6d/34/566d34531b0a079f55c4f910c12dc05d20aed806.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/df/ab/d1/dfabd1f5c729d27bd8d90db7c44b753b7b8a445b.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0e/d7/d9/0ed7d9195414b358b9d83cce9325857a9178347a.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-09-29 20:08:56",
+        "list_id": 2187113482,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "15011333",
+          "user_id": "7739cfc8-511f-4c80-8e65-32a3d4a3dd82",
+          "type": "pro",
+          "name": "CEFIMMO GESTION",
+          "siren": "800990285",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          520000
+        ],
+        "price_cents": 52000000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison de ville 196 m² Gieres",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2187113482.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI2511401_343147755",
+            "values": [
+              "ubiflow_ACCPI2511401_343147755"
+            ],
+            "value_label": "ubiflow_ACCPI2511401_343147755",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "196",
+            "values": [
+              "196"
+            ],
+            "key_label": "Surface",
+            "value_label": "196 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "5",
+            "values": [
+              "5"
+            ],
+            "key_label": "Pièces",
+            "value_label": "5",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "d",
+            "values": [
+              "d"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "D",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "b",
+            "values": [
+              "b"
+            ],
+            "key_label": "GES",
+            "value_label": "B",
+            "generic": true
+          },
+          {
+            "key": "elevator",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Ascenseur",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "pro_rates_link",
+            "value": "https://bareme.iadfrance.fr/detail/57458",
+            "values": [
+              "https://bareme.iadfrance.fr/detail/57458"
+            ],
+            "value_label": "https://bareme.iadfrance.fr/detail/57458",
+            "generic": false
+          },
+          {
+            "key": "floor_number",
+            "value": "0",
+            "values": [
+              "0"
+            ],
+            "key_label": "Étage du bien",
+            "value_label": "0",
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "4",
+            "values": [
+              "4"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "4 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "1118508",
+            "values": [
+              "1118508"
+            ],
+            "key_label": "Référence",
+            "value_label": "1118508",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          },
+          {
+            "key": "old_price",
+            "value": "570000",
+            "values": [
+              "570000"
+            ],
+            "value_label": "570000",
+            "generic": false
+          }
+        ],
+        "body": "Vente Maison/villa 5 pièces\n\niad France - Virginie MARZOCCA vous propose : GIERES CENTRE - Maison de ville atypique avec beaucoup de charme d'une surface totale au sol de 292 m² environ comprenant un T1 bis annexe indépendant de 44 m² environ actuellement loué 500 hors charges et une Terrasse de 43 m² environ. La Maison se compose à l'étage d'un Salon/Salle à manger de 38 m² environ et un second salon de 30m² environ, une cuisine aménagée, 3 chambres dont une suite parentale avec  Sdb, une buanderie et 2 autres Sdb. Au RDC : un Atelier aménageable + cave + stationnement double en extérieur ainsi qu'une cave en sous sol. Toutes commodités à proximité. Peu de vis à vis. Au calme.\n\nLa présente annonce immobilière vise 1 lot principal situé dans une copropriété formant 5 lots au total ne faisant l'objet d'aucune procédure en cours déclarée par le vendeur.Honoraires d’agence à la charge du vendeur.Information d'affichage énergétique sur ce bien : classe ENERGIE D indice 201 et classe CLIMAT B indice 6. La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mlle Virginie MARZOCCA (ID 57458), mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Grenoble sous le numéro 897960969, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.\nRéférence annonce : 1118508\nDate de réalisation du diagnostic : 10/05/2022\nLes honoraires sont à la charge du vendeur\n\nA propos de la copropriété :\nPas de procédure en cours\nNombre de lots : 5\nCharges prévisionnelles annuelles : 12 €\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1830 € et 2540 € par an. Prix moyens des énergies indexés sur l'année 2021 (abonnements compris)",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-05-11 19:08:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/b3/9f/80b39fa486de7d5fc546aaab9fb645d8db8ede41.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/b3/9f/80b39fa486de7d5fc546aaab9fb645d8db8ede41.jpg?rule=ad-small",
+          "nb_images": 17,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/b3/9f/80b39fa486de7d5fc546aaab9fb645d8db8ede41.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2b/58/a6/2b58a6bc7dea0406c907dc79fe412b0ef90ae792.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/d6/d5/c7d6d5f4c1af886d7d6ae79d6556b69cc6698676.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/20/b0/6e/20b06e1b4732241c42d5434af58c18e94682c6f9.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/59/aa/1e/59aa1e9623a72007fdce0c7833faa9bb231d9567.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/6d/f9/aa/6df9aa10c852782f32d7c4aad9b67f373bd1bcce.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/1b/72/3e1b7218bb20679be606fa31c04add3eee59752f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/47/e6/b447e60674baa6b471ed7a017342428f3263f952.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ff/4e/6e/ff4e6e693c1e3c1cd9c891077b8325c9cdcd9a29.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/5c/49/625c49b30c1cf21feca711201d18cff6d1550ada.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/91/7f/a3917fc83d985ee576e83633c2172d96c823c2d9.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/99/ee/d3/99eed3b49399482e84a64c4af6290a0fe562f935.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/f7/d2/95f7d27b00b052bcdab8aac0046c815b438211a2.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/55/ca/0f55cade8d2e61fb00714f82a62f4a00357531b2.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/42/01/77/4201770b3fb5615659f33fc13c8ab89edf63224e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/83/1d/3a831d40366093f7d81fec5b9d0398f3cf3212fc.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/32/91/69/32916944c6014e3fcc5f147ab1c11b3bd5efbc4a.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/b3/9f/80b39fa486de7d5fc546aaab9fb645d8db8ede41.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2b/58/a6/2b58a6bc7dea0406c907dc79fe412b0ef90ae792.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/d6/d5/c7d6d5f4c1af886d7d6ae79d6556b69cc6698676.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/20/b0/6e/20b06e1b4732241c42d5434af58c18e94682c6f9.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/59/aa/1e/59aa1e9623a72007fdce0c7833faa9bb231d9567.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/6d/f9/aa/6df9aa10c852782f32d7c4aad9b67f373bd1bcce.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/1b/72/3e1b7218bb20679be606fa31c04add3eee59752f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/47/e6/b447e60674baa6b471ed7a017342428f3263f952.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ff/4e/6e/ff4e6e693c1e3c1cd9c891077b8325c9cdcd9a29.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/5c/49/625c49b30c1cf21feca711201d18cff6d1550ada.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/91/7f/a3917fc83d985ee576e83633c2172d96c823c2d9.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/99/ee/d3/99eed3b49399482e84a64c4af6290a0fe562f935.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/f7/d2/95f7d27b00b052bcdab8aac0046c815b438211a2.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/55/ca/0f55cade8d2e61fb00714f82a62f4a00357531b2.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/42/01/77/4201770b3fb5615659f33fc13c8ab89edf63224e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/83/1d/3a831d40366093f7d81fec5b9d0398f3cf3212fc.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/32/91/69/32916944c6014e3fcc5f147ab1c11b3bd5efbc4a.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/80/b3/9f/80b39fa486de7d5fc546aaab9fb645d8db8ede41.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2b/58/a6/2b58a6bc7dea0406c907dc79fe412b0ef90ae792.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/c7/d6/d5/c7d6d5f4c1af886d7d6ae79d6556b69cc6698676.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/20/b0/6e/20b06e1b4732241c42d5434af58c18e94682c6f9.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/59/aa/1e/59aa1e9623a72007fdce0c7833faa9bb231d9567.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/6d/f9/aa/6df9aa10c852782f32d7c4aad9b67f373bd1bcce.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3e/1b/72/3e1b7218bb20679be606fa31c04add3eee59752f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/47/e6/b447e60674baa6b471ed7a017342428f3263f952.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ff/4e/6e/ff4e6e693c1e3c1cd9c891077b8325c9cdcd9a29.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/5c/49/625c49b30c1cf21feca711201d18cff6d1550ada.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/91/7f/a3917fc83d985ee576e83633c2172d96c823c2d9.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/99/ee/d3/99eed3b49399482e84a64c4af6290a0fe562f935.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/95/f7/d2/95f7d27b00b052bcdab8aac0046c815b438211a2.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0f/55/ca/0f55cade8d2e61fb00714f82a62f4a00357531b2.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/42/01/77/4201770b3fb5615659f33fc13c8ab89edf63224e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/83/1d/3a831d40366093f7d81fec5b9d0398f3cf3212fc.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/32/91/69/32916944c6014e3fcc5f147ab1c11b3bd5efbc4a.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-09-28 17:20:40",
+        "list_id": 2160578982,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "57314287",
+          "user_id": "f82a4b58-275b-474b-81de-c1fac1357faa",
+          "type": "pro",
+          "name": "Virginie MARZOCCA - IAD France",
+          "siren": "897960969",
+          "pro_rates_link": "https://bareme.iadfrance.fr/detail/57458",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          520000
+        ],
+        "price_cents": 52000000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison 5 pièces 196 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2160578982.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI756618_357680629",
+            "values": [
+              "ubiflow_ACCPI756618_357680629"
+            ],
+            "value_label": "ubiflow_ACCPI756618_357680629",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "157",
+            "values": [
+              "157"
+            ],
+            "key_label": "Surface",
+            "value_label": "157 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "7",
+            "values": [
+              "7"
+            ],
+            "key_label": "Pièces",
+            "value_label": "7",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "e",
+            "values": [
+              "e"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "E",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "e",
+            "values": [
+              "e"
+            ],
+            "key_label": "GES",
+            "value_label": "E",
+            "generic": true
+          },
+          {
+            "key": "elevator",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Ascenseur",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "floor_number",
+            "value": "0",
+            "values": [
+              "0"
+            ],
+            "key_label": "Étage du bien",
+            "value_label": "0",
+            "generic": true
+          },
+          {
+            "key": "nb_parkings",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Places de parking",
+            "value_label": "1",
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "5",
+            "values": [
+              "5"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "5 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "2554_SB1-5025482",
+            "values": [
+              "2554_SB1-5025482"
+            ],
+            "key_label": "Référence",
+            "value_label": "2554_SB1-5025482",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          }
+        ],
+        "body": "Maison de village 7 pièces pour grande famille et rentabilité locative - INVESTISSEURS\n\nEXCLUSIVITE MAISON AU CENTRE DU VILLAGE AVEC TERRASSE - IDEAL FAMILLE OU INVESTISSEURS  non loin de Grenoble par le TRAIN, le TRAM, les Bus, 157 m² avec 7 pièces réparties sur 3 niveaux comprenant un T1 en RDC avec sa propre entrée. Très beau potentiel pour ce bien ancien (POSSIBLE RENDEMENT LOCATIF IMMEDIAT DU T1 AU RDC).  Emplacement recherché,  proche des commerces et transports en commun, dans un environnement calme proche du centre bourg et d'un grand parc pour les enfants. Prévoir travaux de modernisation rafraichissement.\n\nDescription du studio / T2 : 1 chambre avec salle d'eau attenante, un séjour et une kitchenette.\nIdéal pour accueillir une personne âgée, vos amis, ou un adolescent souhaitant un peu d'indépendance.\n\nDescription de la maison principale : RDC :  un grand garage, une cave, une buanderie et 1 chambre.\n1er niveau : belle pièce de vie avec cuisine ouverte d'environ 45 m² avec accès sur une grande terrasse.\n2nd niveau : une salle de bain, 3 belles chambres et 1 bureau. Possibilité de ne plus faire communiquer la maison et le studio. Extérieurs : grande terrasse, pas de jardin.  Idéal pour une transition maison - appartement. Chauffage individuel au gaz de ville. Taxe foncière : 1624 euros. Bien non soumis au régime de la copropriété.\n\nPossible rendement locatif T1au RDC : Possibilité de louer à étudiants, personne seule !\n\nVotre agence Hapi Immo vous présente un projet ARCHIDECO - HOME STAGING VIRTUEL® réalisé par un architecte d'intérieur (proposition d'aménagement 3D non contractuelle)\n\nPour recevoir le dossier complet du bien, contactez : Mme Sandrine BESSET - 06 66 69 08 86 - conseillère en immobilier, agent commercial ind. de l'agence HAPI IMMOBILIER.\nRéférence annonce : 2554_SB1-5025482\nConsommation énergétique : 247 kWh/m²/an\nEmission de gaz à effet de serre : 40 CO2/m²/an\nLes honoraires sont à la charge du vendeur",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-09-08 22:51:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/41/2d/60412d7c8180b7790826499454efa9a05a0206dd.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/41/2d/60412d7c8180b7790826499454efa9a05a0206dd.jpg?rule=ad-small",
+          "nb_images": 16,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/41/2d/60412d7c8180b7790826499454efa9a05a0206dd.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/88/f6/2f88f60f6667f4946b3b8067186460c00aaec1f4.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/d7/b6/e1d7b6d32660ecd1478dd612d249717692fb109e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/32/26/b6/3226b6e16f53f5d500b5942f55cfbf4bb223db98.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/90/d9/eb/90d9eb8c45df6c41c837a1b87d9616c57a1da154.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/8e/4c/e28e4c8363a2807e9378c75953384b763ebfae55.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/ba/83/85ba83fd1c706735a6d1bf281a824403d5734714.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/37/76/ac377638703d9f5bb3e13e448f7fc8bbb1144ce2.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/66/53/dc/6653dcbd1be7968bbe8930835f2d9bac8d0243eb.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/cd/5e/8fcd5eb168c29565337079a1a9abe5cf778f8b57.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/95/8b/f9958b560285a9e43b9ef86ceef83b31d9389909.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/99/71/5a9971e8bd1e8d8f909e5822e76dcec4d475efc9.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/09/b1/86/09b1867a3216ecf1e14e1f4bfa570b543ef8916a.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/de/46/c7/de46c7c51a7269d75f5d29d4d694bd5e5f5bbfe2.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/68/79/a36879c7bdab9dc7d8048f8d4e6fcd8ba070ac86.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/8d/13/278d134cc3c8c3004f142a393b6953ee3e8cda2b.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/41/2d/60412d7c8180b7790826499454efa9a05a0206dd.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/88/f6/2f88f60f6667f4946b3b8067186460c00aaec1f4.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/d7/b6/e1d7b6d32660ecd1478dd612d249717692fb109e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/32/26/b6/3226b6e16f53f5d500b5942f55cfbf4bb223db98.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/90/d9/eb/90d9eb8c45df6c41c837a1b87d9616c57a1da154.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/8e/4c/e28e4c8363a2807e9378c75953384b763ebfae55.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/ba/83/85ba83fd1c706735a6d1bf281a824403d5734714.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/37/76/ac377638703d9f5bb3e13e448f7fc8bbb1144ce2.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/66/53/dc/6653dcbd1be7968bbe8930835f2d9bac8d0243eb.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/cd/5e/8fcd5eb168c29565337079a1a9abe5cf778f8b57.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/95/8b/f9958b560285a9e43b9ef86ceef83b31d9389909.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/99/71/5a9971e8bd1e8d8f909e5822e76dcec4d475efc9.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/09/b1/86/09b1867a3216ecf1e14e1f4bfa570b543ef8916a.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/de/46/c7/de46c7c51a7269d75f5d29d4d694bd5e5f5bbfe2.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/68/79/a36879c7bdab9dc7d8048f8d4e6fcd8ba070ac86.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/8d/13/278d134cc3c8c3004f142a393b6953ee3e8cda2b.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/41/2d/60412d7c8180b7790826499454efa9a05a0206dd.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/88/f6/2f88f60f6667f4946b3b8067186460c00aaec1f4.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e1/d7/b6/e1d7b6d32660ecd1478dd612d249717692fb109e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/32/26/b6/3226b6e16f53f5d500b5942f55cfbf4bb223db98.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/90/d9/eb/90d9eb8c45df6c41c837a1b87d9616c57a1da154.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e2/8e/4c/e28e4c8363a2807e9378c75953384b763ebfae55.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/ba/83/85ba83fd1c706735a6d1bf281a824403d5734714.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ac/37/76/ac377638703d9f5bb3e13e448f7fc8bbb1144ce2.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/66/53/dc/6653dcbd1be7968bbe8930835f2d9bac8d0243eb.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/8f/cd/5e/8fcd5eb168c29565337079a1a9abe5cf778f8b57.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/f9/95/8b/f9958b560285a9e43b9ef86ceef83b31d9389909.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/5a/99/71/5a9971e8bd1e8d8f909e5822e76dcec4d475efc9.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/09/b1/86/09b1867a3216ecf1e14e1f4bfa570b543ef8916a.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/de/46/c7/de46c7c51a7269d75f5d29d4d694bd5e5f5bbfe2.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a3/68/79/a36879c7bdab9dc7d8048f8d4e6fcd8ba070ac86.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/8d/13/278d134cc3c8c3004f142a393b6953ee3e8cda2b.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-09-26 17:22:47",
+        "list_id": 2218092098,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "15620554",
+          "user_id": "424d551b-15a2-4b6a-bfe7-f90c22941aa2",
+          "type": "pro",
+          "name": "PATRIMOINE IMMOBILIER MEYLAN-GRENOBLE",
+          "siren": "504007568",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          399000
+        ],
+        "price_cents": 39900000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison de village 7 pièces 157 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2218092098.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "activity_sector",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "external_ad_id",
+            "value": "ubiflow_ACCPI1657748_354471433",
+            "values": [
+              "ubiflow_ACCPI1657748_354471433"
+            ],
+            "value_label": "ubiflow_ACCPI1657748_354471433",
+            "generic": false
+          },
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "190",
+            "values": [
+              "190"
+            ],
+            "key_label": "Surface",
+            "value_label": "190 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "8",
+            "values": [
+              "8"
+            ],
+            "key_label": "Pièces",
+            "value_label": "8",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "c",
+            "values": [
+              "c"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "C",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "c",
+            "values": [
+              "c"
+            ],
+            "key_label": "GES",
+            "value_label": "C",
+            "generic": true
+          },
+          {
+            "key": "elevator",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Ascenseur",
+            "value_label": "Non",
+            "generic": true
+          },
+          {
+            "key": "fai_included",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Honoraires",
+            "value_label": "Oui",
+            "generic": true
+          },
+          {
+            "key": "pro_rates_link",
+            "value": "https://bareme.iadfrance.fr/detail/34563",
+            "values": [
+              "https://bareme.iadfrance.fr/detail/34563"
+            ],
+            "value_label": "https://bareme.iadfrance.fr/detail/34563",
+            "generic": false
+          },
+          {
+            "key": "floor_number",
+            "value": "0",
+            "values": [
+              "0"
+            ],
+            "key_label": "Étage du bien",
+            "value_label": "0",
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "bedrooms",
+            "value": "4",
+            "values": [
+              "4"
+            ],
+            "key_label": "Nombre de chambres",
+            "value_label": "4 ch.",
+            "generic": true
+          },
+          {
+            "key": "custom_ref",
+            "value": "1150345",
+            "values": [
+              "1150345"
+            ],
+            "key_label": "Référence",
+            "value_label": "1150345",
+            "generic": true
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "true",
+            "values": [
+              "true"
+            ],
+            "value_label": "true",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          }
+        ],
+        "body": "Vente Maison/villa 8 pièces\n\niad France - Eliane IBARRA vous propose : En Exclusivité sur la commune de GIères .Opportunité à Saisir. Très bel emplacement pour ces trois appartements situés au centre de Gières, proche de toutes commodités (commerces, transports,  écoles, collèges, université…). Cet ensemble comprend, un appartement de type 5 en duplex entièrement rénové et climatisé, d’une surface de 111m² environ surface carrez et 145m² environ surface utile. Un  appartement qui propose de beaux volumes.  Un séjour, une cuisine séparée totalement équipée donnant sur une petite terrasse, quatre chambres dont deux avec salle d’eau, un espace buanderie, une salle de bain avec cabine de douche balnéo et un grand garage. Un appartement de type 3 de 81m² environ, proposant un bel espace de vie, une cuisine équipée, deux chambres de belles dimensions, une salle de bain avec baignoire, et garage attenant, le T3 est vendu loué , loyer mensuel de 720 euros. un appartement type type 2 de 21m² environ, climatisé,  plus box de de rangement de 10m² environ, non loué.\n\nSES PLUS : un localisation au calme et proche de tout\nContactez moi sans tarder, pour organiser votre visite.\n\nHonoraires d’agence à la charge du vendeur.Information d'affichage énergétique sur ce bien : classe ENERGIE C indice 155 et classe CLIMAT C indice 21. La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Eliane IBARRA (ID 34563), mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Grenoble sous le numéro 811582527, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.\nRéférence annonce : 1150345\nDate de réalisation du diagnostic : 15/07/2022\nLes honoraires sont à la charge du vendeur\n\nMontant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1240 € et 1750 € par an. Prix moyens des énergies indexés sur l'année 2021 (abonnements compris)",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-08-12 07:31:00",
+        "has_phone": true,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/03/db/9803db97c15d9a29143883a501734ebfc770afd3.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/03/db/9803db97c15d9a29143883a501734ebfc770afd3.jpg?rule=ad-small",
+          "nb_images": 18,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/03/db/9803db97c15d9a29143883a501734ebfc770afd3.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0e/d9/b6/0ed9b6172aa416346155bd97f5b953997922277d.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e5/97/f3/e597f345b95d0f517bb9c977f8d8808c21aab63f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/08/56/e0/0856e0c502109cb283302e4b9866432155eecf3a.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/1f/1d/3a1f1d465045bf33e0d32863bd5f4ab3b06ce2c0.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/65/f2/ca65f2fee3e9408d841b93b43cd795dc4694aa23.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/9d/bf/32/9dbf32cd0ecbfd500bc363271ea7bd492c580015.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/67/08/a0670807deb9108638823e1d9abf141d7f960fc9.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/21/c3/2e21c39fd49547407cc985cc27133536ef27510f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/de/a4/8c/dea48c3e160905cbda015987d29f8680a70982f0.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/21/61/7c2161c1982f73b69e1480f230d34aa5a556e224.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/39/fb/d9/39fbd9026778703add02b3ebdfe14c0bb04bfb9b.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/3b/02/b43b02983aaa69042f380f60f9ec620a4c5df8c7.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/db/b2/b9/dbb2b97b882360a3c35cc67b99ddd12ff367317c.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/70/52/2f705258786de414b60b5e1fefaf90198e733d4f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d0/dd/f2/d0ddf2d9e408d9ef7a55e3fa48190992fe82c5a0.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/21/8a/53218aae010264581d83d2d3505390e7a0573e82.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2a/9a/03/2a9a03351bd3e0ccb04fbc06960baa80204b0487.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/03/db/9803db97c15d9a29143883a501734ebfc770afd3.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0e/d9/b6/0ed9b6172aa416346155bd97f5b953997922277d.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e5/97/f3/e597f345b95d0f517bb9c977f8d8808c21aab63f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/08/56/e0/0856e0c502109cb283302e4b9866432155eecf3a.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/1f/1d/3a1f1d465045bf33e0d32863bd5f4ab3b06ce2c0.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/65/f2/ca65f2fee3e9408d841b93b43cd795dc4694aa23.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/9d/bf/32/9dbf32cd0ecbfd500bc363271ea7bd492c580015.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/67/08/a0670807deb9108638823e1d9abf141d7f960fc9.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/21/c3/2e21c39fd49547407cc985cc27133536ef27510f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/de/a4/8c/dea48c3e160905cbda015987d29f8680a70982f0.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/21/61/7c2161c1982f73b69e1480f230d34aa5a556e224.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/39/fb/d9/39fbd9026778703add02b3ebdfe14c0bb04bfb9b.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/3b/02/b43b02983aaa69042f380f60f9ec620a4c5df8c7.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/db/b2/b9/dbb2b97b882360a3c35cc67b99ddd12ff367317c.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/70/52/2f705258786de414b60b5e1fefaf90198e733d4f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d0/dd/f2/d0ddf2d9e408d9ef7a55e3fa48190992fe82c5a0.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/21/8a/53218aae010264581d83d2d3505390e7a0573e82.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2a/9a/03/2a9a03351bd3e0ccb04fbc06960baa80204b0487.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/98/03/db/9803db97c15d9a29143883a501734ebfc770afd3.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/0e/d9/b6/0ed9b6172aa416346155bd97f5b953997922277d.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/e5/97/f3/e597f345b95d0f517bb9c977f8d8808c21aab63f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/08/56/e0/0856e0c502109cb283302e4b9866432155eecf3a.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/3a/1f/1d/3a1f1d465045bf33e0d32863bd5f4ab3b06ce2c0.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ca/65/f2/ca65f2fee3e9408d841b93b43cd795dc4694aa23.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/9d/bf/32/9dbf32cd0ecbfd500bc363271ea7bd492c580015.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/67/08/a0670807deb9108638823e1d9abf141d7f960fc9.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2e/21/c3/2e21c39fd49547407cc985cc27133536ef27510f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/de/a4/8c/dea48c3e160905cbda015987d29f8680a70982f0.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/7c/21/61/7c2161c1982f73b69e1480f230d34aa5a556e224.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/39/fb/d9/39fbd9026778703add02b3ebdfe14c0bb04bfb9b.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/b4/3b/02/b43b02983aaa69042f380f60f9ec620a4c5df8c7.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/db/b2/b9/dbb2b97b882360a3c35cc67b99ddd12ff367317c.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2f/70/52/2f705258786de414b60b5e1fefaf90198e733d4f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/d0/dd/f2/d0ddf2d9e408d9ef7a55e3fa48190992fe82c5a0.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/53/21/8a/53218aae010264581d83d2d3505390e7a0573e82.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/2a/9a/03/2a9a03351bd3e0ccb04fbc06960baa80204b0487.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-09-26 16:22:46",
+        "list_id": 2204056532,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18009,
+          "lng": 5.79096,
+          "source": "city",
+          "provider": "here",
+          "is_shape": true,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79096,
+                45.18009
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "40000166",
+          "user_id": "233a61b8-e9a5-445c-93c3-0506e8c66aa7",
+          "type": "pro",
+          "name": "Eliane IBARRA - IAD France",
+          "siren": "811582527",
+          "pro_rates_link": "https://bareme.iadfrance.fr/detail/34563",
+          "no_salesmen": false,
+          "activity_sector": "2"
+        },
+        "price": [
+          480000
+        ],
+        "price_cents": 48000000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Maison 8 pièces 190 m²",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2204056532.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "191",
+            "values": [
+              "191"
+            ],
+            "key_label": "Surface",
+            "value_label": "191 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "5",
+            "values": [
+              "5"
+            ],
+            "key_label": "Pièces",
+            "value_label": "5",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "d",
+            "values": [
+              "d"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "D",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "b",
+            "values": [
+              "b"
+            ],
+            "key_label": "GES",
+            "value_label": "B",
+            "generic": true
+          },
+          {
+            "key": "nb_floors_house",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Nombre de niveaux",
+            "value_label": "2",
+            "generic": true
+          },
+          {
+            "key": "outside_access",
+            "value": "",
+            "values": [
+              "terrace"
+            ],
+            "key_label": "Extérieur",
+            "value_label": "Terrasse",
+            "values_label": [
+              "Terrasse"
+            ],
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          },
+          {
+            "key": "old_price",
+            "value": "570000",
+            "values": [
+              "570000"
+            ],
+            "value_label": "570000",
+            "generic": false
+          }
+        ],
+        "body": "Particulier vend  maison atypique à Gières proche toutes commodités, au calme, d'une surface habitable de 152 m² composée de 3 chambres dont une suite parentale, et de beaux espaces de vie, et d'un T1 BIS de 44m² loué, ainsi que d'une terrasse de 43 m², 55m² de dépendances et d'un stationnement pour deux voitures.\nDPE réalisé le 09/05/2022.",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-09-18 18:59:59",
+        "has_phone": false,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/6f/64/276f644eb6a6aeb8d242d15d88d3cb8172c88a87.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/6f/64/276f644eb6a6aeb8d242d15d88d3cb8172c88a87.jpg?rule=ad-small",
+          "nb_images": 3,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/6f/64/276f644eb6a6aeb8d242d15d88d3cb8172c88a87.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/16/47/6016471a0cd46be4b531330d5a2c00ac87b209c5.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/40/dd/9240dd82517a0b51b4bdfac44861d2c0af15ffab.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/6f/64/276f644eb6a6aeb8d242d15d88d3cb8172c88a87.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/16/47/6016471a0cd46be4b531330d5a2c00ac87b209c5.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/40/dd/9240dd82517a0b51b4bdfac44861d2c0af15ffab.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/27/6f/64/276f644eb6a6aeb8d242d15d88d3cb8172c88a87.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/60/16/47/6016471a0cd46be4b531330d5a2c00ac87b209c5.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/92/40/dd/9240dd82517a0b51b4bdfac44861d2c0af15ffab.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-09-18 18:59:59",
+        "list_id": 2160710341,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18218,
+          "lng": 5.79197,
+          "source": "address",
+          "provider": "here",
+          "is_shape": false,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.79197,
+                45.18218
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": false,
+          "booster": false,
+          "photosup": false,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "42588611",
+          "user_id": "99ed9ecd-7bac-40f9-bb3f-2b45072de284",
+          "type": "private",
+          "name": "lanto",
+          "no_salesmen": true,
+          "activity_sector": ""
+        },
+        "price": [
+          520000
+        ],
+        "price_cents": 52000000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Vends maison 5 pièces+T1BIS",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2160710341.htm"
+      },
+      {
+        "ad_type": "offer",
+        "attributes": [
+          {
+            "key": "real_estate_type",
+            "value": "1",
+            "values": [
+              "1"
+            ],
+            "key_label": "Type de bien",
+            "value_label": "Maison",
+            "generic": true
+          },
+          {
+            "key": "square",
+            "value": "104",
+            "values": [
+              "104"
+            ],
+            "key_label": "Surface",
+            "value_label": "104 m²",
+            "generic": true
+          },
+          {
+            "key": "land_plot_surface",
+            "value": "280",
+            "values": [
+              "280"
+            ],
+            "key_label": "Surface du terrain",
+            "value_label": "280 m²",
+            "generic": true
+          },
+          {
+            "key": "rooms",
+            "value": "4",
+            "values": [
+              "4"
+            ],
+            "key_label": "Pièces",
+            "value_label": "4",
+            "generic": true
+          },
+          {
+            "key": "energy_rate",
+            "value": "a",
+            "values": [
+              "a"
+            ],
+            "key_label": "Classe énergie",
+            "value_label": "A",
+            "generic": true
+          },
+          {
+            "key": "ges",
+            "value": "a",
+            "values": [
+              "a"
+            ],
+            "key_label": "GES",
+            "value_label": "A",
+            "generic": true
+          },
+          {
+            "key": "nb_floors_house",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "key_label": "Nombre de niveaux",
+            "value_label": "2",
+            "generic": true
+          },
+          {
+            "key": "outside_access",
+            "value": "",
+            "values": [
+              "terrace",
+              "garden"
+            ],
+            "key_label": "Extérieur",
+            "value_label": "Terrasse, Jardin",
+            "values_label": [
+              "Terrasse",
+              "Jardin"
+            ],
+            "generic": true
+          },
+          {
+            "key": "district_id",
+            "value": "38179",
+            "values": [
+              "38179"
+            ],
+            "value_label": "38179",
+            "generic": false
+          },
+          {
+            "key": "district_visibility",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "district_type_id",
+            "value": "2",
+            "values": [
+              "2"
+            ],
+            "value_label": "2",
+            "generic": false
+          },
+          {
+            "key": "district_resolution_type",
+            "value": "integration",
+            "values": [
+              "integration"
+            ],
+            "value_label": "integration",
+            "generic": false
+          },
+          {
+            "key": "immo_sell_type",
+            "value": "old",
+            "values": [
+              "old"
+            ],
+            "value_label": "old",
+            "generic": false
+          },
+          {
+            "key": "is_import",
+            "value": "false",
+            "values": [
+              "false"
+            ],
+            "value_label": "false",
+            "generic": false
+          },
+          {
+            "key": "lease_type",
+            "value": "sell",
+            "values": [
+              "sell"
+            ],
+            "value_label": "sell",
+            "generic": false
+          }
+        ],
+        "body": "Imaginez une maison ultra économe en hiver, ne dépassant pas 26° en pleine canicule grâce à sa pompe à chaleur réversible, située à 5 mn à pied de tous les commerces, crèche, école, collège, centre aéré, tram, gare… mais aussi à 3 mn de la rocade et 5 mn du futur grand centre commercial NEYRPIC, ou du Domaine Universitaire et les berges de l’Isère : Accès direct en vélo au centre-ville de Grenoble…\n\nElle existe et elle est à vendre ! \nConstruction BBC 2016 au fond d’une petite impasse privative, pièce de vie 47 m², 3 chambres, dressing 7 m², cellier, buanderie, garage 28 m² transformable en studio, espace parental ou extension de salon (ou ce que vous voulez !). Stationnement 3 voitures dans la propriété.\n\nOrientation sud-ouest dans un petit écrin de verdure ombragé, isolation exceptionnelle supérieure au neuf 2022, volets roulants électriques, chauffage/refroidissement au sol, cuisine intégrée, spots basse tension. Pré-équipement complet en place pour un poêle ou une cheminée.\nConsommation DPE : 400€ à 580 € / an. Aucun travaux à prévoir.\n\nCurieux s’abstenir, visite avec plaisir sur présentation d’un financement validé.",
+        "category_id": "9",
+        "category_name": "Ventes immobilières",
+        "first_publication_date": "2022-09-04 19:23:01",
+        "has_phone": false,
+        "images": {
+          "thumb_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/dd/16/df/dd16df17ba393c8915d515adb4c41bf62051844e.jpg?rule=ad-thumb",
+          "small_url": "https://img.leboncoin.fr/api/v1/lbcpb1/images/dd/16/df/dd16df17ba393c8915d515adb4c41bf62051844e.jpg?rule=ad-small",
+          "nb_images": 9,
+          "urls": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/dd/16/df/dd16df17ba393c8915d515adb4c41bf62051844e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/48/c3/6248c33ae4b5fe8695c38acae7f2f4d27235d8e1.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/82/b2/ee/82b2ee8d36c3f5585e6fccfaa0da50ecc914cdec.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/aa/5e/e6/aa5ee66431c849c4d2522151ee904c1059ae6ed9.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/87/f4/c3/87f4c3368b0d51a5fac65ca50ffb325fe4202180.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/f8/74/eff8743c4da2758ba5347fc12d5e79237a488584.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a5/d2/0f/a5d20f27ae1743d878c893153a09ca4154e28d0e.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1f/99/0d/1f990d7f7f763221dcd5eee5152b7d90ef78eb1f.jpg?rule=ad-image",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/87/c2/8587c2af32f87ac3baa9c0baa72d717739723adc.jpg?rule=ad-image"
+          ],
+          "urls_thumb": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/dd/16/df/dd16df17ba393c8915d515adb4c41bf62051844e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/48/c3/6248c33ae4b5fe8695c38acae7f2f4d27235d8e1.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/82/b2/ee/82b2ee8d36c3f5585e6fccfaa0da50ecc914cdec.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/aa/5e/e6/aa5ee66431c849c4d2522151ee904c1059ae6ed9.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/87/f4/c3/87f4c3368b0d51a5fac65ca50ffb325fe4202180.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/f8/74/eff8743c4da2758ba5347fc12d5e79237a488584.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a5/d2/0f/a5d20f27ae1743d878c893153a09ca4154e28d0e.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1f/99/0d/1f990d7f7f763221dcd5eee5152b7d90ef78eb1f.jpg?rule=ad-thumb",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/87/c2/8587c2af32f87ac3baa9c0baa72d717739723adc.jpg?rule=ad-thumb"
+          ],
+          "urls_large": [
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/dd/16/df/dd16df17ba393c8915d515adb4c41bf62051844e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/62/48/c3/6248c33ae4b5fe8695c38acae7f2f4d27235d8e1.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/82/b2/ee/82b2ee8d36c3f5585e6fccfaa0da50ecc914cdec.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/aa/5e/e6/aa5ee66431c849c4d2522151ee904c1059ae6ed9.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/87/f4/c3/87f4c3368b0d51a5fac65ca50ffb325fe4202180.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/ef/f8/74/eff8743c4da2758ba5347fc12d5e79237a488584.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/a5/d2/0f/a5d20f27ae1743d878c893153a09ca4154e28d0e.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/1f/99/0d/1f990d7f7f763221dcd5eee5152b7d90ef78eb1f.jpg?rule=ad-large",
+            "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/87/c2/8587c2af32f87ac3baa9c0baa72d717739723adc.jpg?rule=ad-large"
+          ]
+        },
+        "index_date": "2022-09-04 19:23:01",
+        "list_id": 2215948584,
+        "location": {
+          "country_id": "FR",
+          "region_id": "22",
+          "region_name": "Rhône-Alpes",
+          "department_id": "38",
+          "department_name": "Isère",
+          "city_label": "Gières 38610",
+          "city": "Gières",
+          "zipcode": "38610",
+          "lat": 45.18296,
+          "lng": 5.78134,
+          "source": "address",
+          "provider": "here",
+          "is_shape": false,
+          "feature": {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.78134,
+                45.18296
+              ]
+            },
+            "properties": null
+          }
+        },
+        "options": {
+          "has_option": true,
+          "booster": false,
+          "photosup": true,
+          "urgent": false,
+          "gallery": false,
+          "sub_toplist": false
+        },
+        "owner": {
+          "store_id": "2737318",
+          "user_id": "c49e20d4-8c22-48c6-b1af-0132846c478a",
+          "type": "private",
+          "name": "Super-Villa",
+          "no_salesmen": true,
+          "activity_sector": ""
+        },
+        "price": [
+          489000
+        ],
+        "price_cents": 48900000,
+        "price_calendar": null,
+        "status": "active",
+        "subject": "Rare – Villa BBC 2016, 104 m², secteur recherché",
+        "url": "https://www.leboncoin.fr/ventes_immobilieres/2215948584.htm"
+      }
+    ]
+  }

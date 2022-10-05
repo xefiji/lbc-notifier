@@ -1,0 +1,23 @@
+services:
+  
+  redis:
+    image: "redis:latest"
+    restart: always
+    ports:
+      - "6379:6379"
+    networks:
+      - lbc
+  
+  redis-commander:
+    image: rediscommander/redis-commander
+    networks:
+      - lbc
+    ports:
+      - "8081:8081"
+    environment:
+      - REDIS_HOSTS=local:redis:6379
+    depends_on:
+      - redis
+          
+networks:
+  lbc:
