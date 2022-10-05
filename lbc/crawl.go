@@ -15,7 +15,7 @@ import (
 	"github.com/rs/zerolog/log"
 )
 
-const test = false
+const test = true
 
 type crawler struct {
 	cfg  config

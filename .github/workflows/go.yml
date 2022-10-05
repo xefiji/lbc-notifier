@@ -1,0 +1,50 @@
+name: LBC Notifier Workflow
+on:
+  pull_request:
+  push:
+    branches:
+      - develop
+      - master
+  create:
+    tags:
+      - v*
+env:
+  CGO_ENABLED: 0
+jobs: 
+  dist:
+    runs-on: ubuntu-latest
+    name: Build image and publishes it
+    env:
+      COMMIT: ${{ github.sha }}
+      VERSION: ${{ github.ref }}
+    if: startsWith(github.ref, 'refs/tags/')
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+      
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKERHUBLOGIN }}
+          password: ${{ secrets.DOCKERHUBPASSWORD }}
+
+      - name: Extract metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v3
+        with:
+          images: xefiji/lbc
+
+      - name: Setup Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '>=1.17.0'
+
+      - run: make build-linux
+      
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v2
+        with:
+          context: ./deployment
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
