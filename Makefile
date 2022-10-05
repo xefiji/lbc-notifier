@@ -1,8 +1,8 @@
 build:
-	go build -o deployment/dist cmd/lbc.go
+	go build -o deployment/dist/lbc cmd/lbc.go
 
 build-linux:
-	GOOS=linux go build -o deployment/dist cmd/lbc.go
+	GOOS=linux go build -o deployment/dist/lbc cmd/lbc.go
 
 run: build
 	deployment/dist/lbc
