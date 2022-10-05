@@ -23,6 +23,9 @@ func main() {
 
 func run() error {
 	return lbc.Crawl(
+		lbc.WithDryRun(
+			env("DRY_RUN", "true"),
+		),
 		lbc.WithRapidAPI(
 			env("API_URL", ""),
 			env("RAPIDAPI_HOST", ""),

@@ -19,6 +19,7 @@ type config struct {
 	MailJetKey    string
 	MailJetSecret string
 	MailFrom      string
+	ShouldExecute bool
 }
 
 func WithRedis(host, port, password, db string) Option {
@@ -58,6 +59,19 @@ func WithMailJet(key, secret, from string) Option {
 		cfg.MailJetKey = key
 		cfg.MailJetSecret = secret
 		cfg.MailFrom = from
+
+		return nil
+	}
+}
+
+func WithDryRun(dryRun string) Option {
+	return func(cfg *config) error {
+		boolValue, err := strconv.ParseBool(dryRun)
+		if err != nil {
+			return err
+		}
+
+		cfg.ShouldExecute = !boolValue
 
 		return nil
 	}

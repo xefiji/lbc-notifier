@@ -15,8 +15,6 @@ import (
 	"github.com/rs/zerolog/log"
 )
 
-const test = true
-
 type crawler struct {
 	cfg  config
 	repo repo
@@ -34,6 +32,7 @@ type repo interface {
 
 func Crawl(opts ...Option) error {
 	cfg := new(config)
+
 	for _, opt := range opts {
 		if err := opt(cfg); err != nil {
 			return err
@@ -50,7 +49,7 @@ func Crawl(opts ...Option) error {
 		),
 	}
 
-	result, err := crawler.fetch(test)
+	result, err := crawler.fetch()
 	if err != nil {
 		return err
 	}
@@ -84,10 +83,10 @@ func Crawl(opts ...Option) error {
 	return nil
 }
 
-func (c *crawler) fetch(test bool) (Result, error) {
+func (c *crawler) fetch() (Result, error) {
 	wd, _ := os.Getwd()
 
-	if test {
+	if !c.cfg.ShouldExecute {
 		response, err := os.ReadFile(fmt.Sprintf("%s/docs/sample_response.json", wd))
 		if err != nil {
 			return Result{}, err
