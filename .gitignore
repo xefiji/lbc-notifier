@@ -2,3 +2,4 @@
 .vscode
 *.code-workspace
 deployment/dist/*
+!deployment/dist/.gitkeep
