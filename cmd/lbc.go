@@ -34,6 +34,12 @@ func run() error {
 			env("REDIS_PASSWORD", ""),
 			env("REDIS_DB", "0"),
 		),
+		lbc.WithUsers(env("USERS", "")),
+		lbc.WithMailJet(
+			env("MAILJET_KEY", ""),
+			env("MAILJET_SECRET", ""),
+			env("MAIL_FROM", ""),
+		),
 	)
 }
 

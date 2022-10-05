@@ -1,5 +1,7 @@
 package lbc
 
+import "fmt"
+
 type Result struct {
 	Total          int  `json:"total,omitempty"`
 	TotalAll       int  `json:"total_all,omitempty"`
@@ -32,6 +34,10 @@ type Ad struct {
 	Status               string       `json:"status,omitempty"`
 	Subject              string       `json:"subject,omitempty"`
 	URL                  string       `json:"url,omitempty"`
+}
+
+func (a Ad) GetPrice() string {
+	return fmt.Sprintf("%d€", a.PriceCents/100)
 }
 
 type Attributes struct {

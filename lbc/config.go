@@ -1,6 +1,9 @@
 package lbc
 
-import "strconv"
+import (
+	"strconv"
+	"strings"
+)
 
 type Option func(*config) error
 
@@ -12,6 +15,10 @@ type config struct {
 	RedisPassword string
 	RedisPort     int
 	RedisDB       int
+	Users         []string
+	MailJetKey    string
+	MailJetSecret string
+	MailFrom      string
 }
 
 func WithRedis(host, port, password, db string) Option {
@@ -33,6 +40,24 @@ func WithRapidAPI(url, host, key string) Option {
 		cfg.APIHost = host
 		cfg.APIKey = key
 		cfg.APIUrl = url
+
+		return nil
+	}
+}
+
+func WithUsers(users string) Option {
+	return func(cfg *config) error {
+		cfg.Users = strings.Split(users, ",")
+
+		return nil
+	}
+}
+
+func WithMailJet(key, secret, from string) Option {
+	return func(cfg *config) error {
+		cfg.MailJetKey = key
+		cfg.MailJetSecret = secret
+		cfg.MailFrom = from
 
 		return nil
 	}

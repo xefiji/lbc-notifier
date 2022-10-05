@@ -1,14 +1,17 @@
 package lbc
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"io"
 	"net/http"
 	"strings"
+	"text/template"
 
 	"os"
 
+	"github.com/mailjet/mailjet-apiv3-go"
 	"github.com/rs/zerolog/log"
 )
 
@@ -17,6 +20,11 @@ const test = false
 type crawler struct {
 	cfg  config
 	repo repo
+}
+
+type email struct {
+	Title string
+	Ads   []Ad
 }
 
 type repo interface {
@@ -47,7 +55,7 @@ func Crawl(opts ...Option) error {
 		return err
 	}
 
-	log.Info().Int("total", result.Total).Msg("results found")
+	log.Info().Int("total", result.Total).Msg("nb results found")
 
 	for _, ad := range result.Ads {
 		log.Debug().Int64("id", ad.ListID).Msg("processing ad")
@@ -67,7 +75,7 @@ func Crawl(opts ...Option) error {
 		log.Debug().Int("id", int(ad.ListID)).Msg("ads added")
 
 		if err := crawler.notify(ad); err != nil {
-			log.Error().Err(err).Interface("ad", ad).Msg("error while notifying for add")
+			log.Error().Err(err).Int64("id", ad.ListID).Msg("error while notifying for add")
 
 			continue
 		}
@@ -143,52 +151,50 @@ func (c *crawler) save(ad Ad) error {
 }
 
 func (c *crawler) notify(ad Ad) error {
-	// notify users.
+	mailjetClient := mailjet.NewMailjetClient(
+		c.cfg.MailJetKey,
+		c.cfg.MailJetSecret,
+	)
+
+	title := fmt.Sprintf("Nouvelle annonce à %s", ad.Location.CityLabel)
+	tmpl := template.Must(template.ParseFiles("docs/email.html"))
+
+	data := email{
+		Title: title,
+		Ads:   []Ad{ad},
+	}
+
+	var html bytes.Buffer
+	if err := tmpl.Execute(&html, data); err != nil {
+		return err
+	}
+
+	messagesInfo := make([]mailjet.InfoMessagesV31, 0)
+
+	for _, email := range c.cfg.Users {
+		message := mailjet.InfoMessagesV31{
+			From: &mailjet.RecipientV31{
+				Email: c.cfg.MailFrom,
+				Name:  "LBC Crawl",
+			},
+			To: &mailjet.RecipientsV31{
+				mailjet.RecipientV31{
+					Email: email,
+				},
+			},
+			Subject:  title,
+			HTMLPart: html.String(),
+		}
+
+		messagesInfo = append(messagesInfo, message)
+	}
+
+	messages := mailjet.MessagesV31{Info: messagesInfo}
+
+	_, err := mailjetClient.SendMailV31(&messages)
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
-
-// func main() {
-
-// 	request, err := os.ReadFile("request.json")
-// 	if err != nil {
-// 		log.Fatal().Err(err).Msg("error parsing request")
-// 	}
-
-// 	response, err := os.ReadFile("sample_response.json")
-// 	if err != nil {
-// 		log.Fatal().Err(err).Msg("error parsing response")
-// 	}
-
-// 	var result Result
-// 	err = json.Unmarshal(response, &result)
-// 	if err != nil {
-// 		log.Fatal().Err(err).Msg("error unmarshalling response")
-// 	}
-
-// 	for _, ad := range result.Ads {
-// 		fmt.Println(ad.PriceCents / 100)
-// 	}
-
-// 	fmt.Println(result.Ads[0].PriceCents / 100)
-
-// 	os.Exit(1)
-
-// 	url := os.Getenv("API_URL")
-// 	payload := strings.NewReader(string(request))
-// 	req, _ := http.NewRequest("POST", url, payload)
-
-// 	req.Header.Add("content-type", "application/json")
-// 	req.Header.Add("X-RapidAPI-Key", os.Getenv("RAPIDAPI_KEY"))
-// 	req.Header.Add("X-RapidAPI-Host", os.Getenv("RAPIDAPI_HOST"))
-
-// 	res, err := http.DefaultClient.Do(req)
-// 	if err != nil {
-// 		log.Error().Err(err).Msg("error sending request")
-// 	}
-
-// 	defer res.Body.Close()
-
-// 	body, _ := io.ReadAll(res.Body)
-// 	fmt.Println(res)
-// 	fmt.Println(string(body))
-// }
