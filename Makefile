@@ -1,7 +1,9 @@
 build:
+	cp -R docs deployment/dist
 	go build -o deployment/dist/lbc cmd/lbc.go
 
 build-linux:
+	cp -R docs deployment/dist
 	GOOS=linux go build -o deployment/dist/lbc cmd/lbc.go
 
 run: build
