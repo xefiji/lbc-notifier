@@ -57,10 +57,7 @@ func Crawl(opts ...Option) error {
 	log.Info().Int("total", result.Total).Msg("nb results found")
 
 	for _, ad := range result.Ads {
-		log.Debug().Int64("id", ad.ListID).Msg("processing ad")
-
 		if crawler.has(ad.ListID) {
-			log.Debug().Int("id", int(ad.ListID)).Msg("ads exist")
 
 			continue
 		}
@@ -74,7 +71,7 @@ func Crawl(opts ...Option) error {
 		log.Debug().Int("id", int(ad.ListID)).Msg("ads added")
 
 		if err := crawler.notify(ad); err != nil {
-			log.Error().Err(err).Int64("id", ad.ListID).Msg("error while notifying for add")
+			log.Error().Err(err).Interface("ad", ad).Msg("error while notifying for add")
 
 			continue
 		}
