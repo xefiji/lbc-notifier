@@ -58,7 +58,6 @@ func Crawl(opts ...Option) error {
 
 	for _, ad := range result.Ads {
 		if crawler.has(ad.ListID) {
-
 			continue
 		}
 
