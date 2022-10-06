@@ -161,7 +161,13 @@ func (c *crawler) notify(ad Ad) error {
 		c.cfg.MailJetSecret,
 	)
 
-	title := fmt.Sprintf("Nouvelle annonce à %s", ad.Location.CityLabel)
+	var title string
+	if ad.HasDecreased() {
+		title = fmt.Sprintf("Nouvelle annonce à %s - baisse de prix", ad.Location.CityLabel)
+	} else {
+		title = fmt.Sprintf("Nouvelle annonce à %s", ad.Location.CityLabel)
+	}
+
 	tmpl := template.Must(template.ParseFiles("docs/email.html"))
 
 	data := email{
