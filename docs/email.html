@@ -1,15 +1,26 @@
-<h1>{{.Title}}</h1>
 {{range .Ads}}
-    <h2>{{.Subject}}</h2>
-    <p>At {{.IndexDate}}</p>
-    <p>First published on {{.FirstPublicationDate}}</p>
-    <p>Price {{.GetPrice}}</p>
-    <p>{{.Body}}</p>
-    <p>
-        <a href="{{.URL}}">Url</a>
-    </p>
+<h2>{{.Subject}} à <strong>{{.GetPrice}}</strong></h2>
+<table>
+    <tr>
+        <th>Published at</th>
+        <th>First published at</th>
+        <th>Desc</th>
+        <th>Image</th>
+        <th></th>
+    </tr>
 
-    <a href="{{.URL}}">
-        <img src="{{.Images.SmallURL}}" />
-    </a>
+    <tr>
+        <td>{{.IndexDate}}</td>
+        <td>{{.FirstPublicationDate}}</td>
+        <td>{{.Body}}</td>
+        <td>
+            <a href="{{.URL}}">
+                <img src="{{.Images.SmallURL}}" />
+            </a>        
+        </td>
+        <td>
+            <a href="{{.URL}}">url</a>
+        </td>
+    </tr>
+</table>
 {{end}}
