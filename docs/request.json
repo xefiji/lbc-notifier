@@ -1,47 +1,58 @@
 {
-    "filters": {
-      "category": {
-        "id": "9"
-      },
-      "enums": {
-        "ad_type": [
-          "offer"
-        ],
-        "real_estate_type": [
-          "1"
-        ]
-      },
-    "location": {
-        "locations": [
-          {
-            "area": {
-              "default_radius": 6045,
-              "lat": 45.17823518677505,
-              "lng": 5.794443403400049,
-              "radius": 0
-            },
-            "department_id": "38",
-            "label": "Toutes les communes 38610",
-            "locationType": "city",
-            "region_id": "22",
-            "zipcode": "38610"
-          }
-        ]
-      },
-      "ranges": {
-        "price": {
-          "max": 550000,
-          "min": 350000
-        },
-        "square": {
-          "min": 80
-        }
-      }
-    },
-    "limit": 35,
-    "limit_alu": 3,
-    "listing_source": "direct-search",
-    "offset": 0,
-    "sort_by": "time",
-    "sort_order": "desc"
-  }
+	"filters": {
+		"category": {
+			"id": "9"
+		},
+		"enums": {
+			"ad_type": [
+				"offer"
+			],
+			"real_estate_type": [
+				"1"
+			]
+		},
+		"location": {
+			"locations": [
+				{
+					"area": {
+						"default_radius": 7228,
+						"lat": 45.202322307330846,
+						"lng": 5.853662240146033
+					},
+					"department_id": "38",
+					"label": "Toutes les communes 38420",
+					"locationType": "city",
+					"region_id": "22",
+					"zipcode": "38420"
+				},
+				{
+					"area": {
+						"default_radius": 6045,
+						"lat": 45.17823518677505,
+						"lng": 5.794443403400049
+					},
+          "department_id": "38",
+					"label": "Toutes les communes 38610",
+					"locationType": "city",
+          "region_id": "22",
+					"zipcode": "38610"
+				}
+			]
+		},
+		"ranges": {
+			"price": {
+				"max": 550000,
+				"min": 350000
+			},
+			"square": {
+				"min": 80
+			}
+		}
+	},
+	"limit": 35,
+	"limit_alu": 3,
+	"listing_source": "direct-search",
+	"offset": 0,
+	"sort_by": "time",
+	"sort_order": "desc"
+}

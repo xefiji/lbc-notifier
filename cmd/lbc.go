@@ -9,8 +9,8 @@ import (
 )
 
 func init() {
-	if err := godotenv.Load(); err != nil {
-		log.Warn().Msg("no env file loaded")
+	if err := godotenv.Load(); err == nil {
+		log.Info().Msg("env file loaded")
 	}
 }
 
