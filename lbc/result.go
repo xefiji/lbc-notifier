@@ -34,10 +34,19 @@ type Ad struct {
 	Status               string       `json:"status,omitempty"`
 	Subject              string       `json:"subject,omitempty"`
 	URL                  string       `json:"url,omitempty"`
+	OldPrice             int
 }
 
 func (a Ad) GetPrice() string {
 	return fmt.Sprintf("%d€", a.PriceCents/100)
+}
+
+func (a Ad) HasDecreased() bool {
+	return a.PriceCents < a.OldPrice
+}
+
+func (a Ad) GetDifference() string {
+	return fmt.Sprintf("%d€", (a.OldPrice-a.PriceCents)/100)
 }
 
 type Attributes struct {

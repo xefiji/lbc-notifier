@@ -11,6 +11,8 @@ import (
 
 const adsKey = "ads"
 
+var ErrAdNotFound = errors.New("add was not found")
+
 type repository struct {
 	db *redis.Client
 }
@@ -46,7 +48,7 @@ func (r repository) get(id int64) (Ad, error) {
 
 	val, err := r.db.Get(ctx, fmt.Sprintf("%s:%d", adsKey, id)).Result()
 	if errors.Is(err, redis.Nil) {
-		return Ad{}, nil
+		return Ad{}, ErrAdNotFound
 	}
 
 	if err != nil {

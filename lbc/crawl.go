@@ -3,6 +3,7 @@ package lbc
 import (
 	"bytes"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io"
 	"net/http"
@@ -57,7 +58,8 @@ func Crawl(opts ...Option) error {
 	log.Info().Int("total", result.Total).Msg("nb results found")
 
 	for _, ad := range result.Ads {
-		if crawler.has(ad.ListID) {
+		existing := crawler.get(ad.ListID)
+		if existing != nil && ad.PriceCents >= existing.PriceCents {
 			continue
 		}
 
@@ -68,6 +70,10 @@ func Crawl(opts ...Option) error {
 		}
 
 		log.Debug().Int("id", int(ad.ListID)).Msg("ads added")
+
+		if existing != nil {
+			ad.OldPrice = existing.PriceCents
+		}
 
 		if err := crawler.notify(ad); err != nil {
 			log.Error().Err(err).Interface("ad", ad).Msg("error while notifying for add")
@@ -128,15 +134,19 @@ func (c *crawler) fetch() (Result, error) {
 	return result, nil
 }
 
-func (c *crawler) has(id int64) bool {
+func (c *crawler) get(id int64) *Ad {
 	ad, err := c.repo.get(id)
-	if err != nil {
-		log.Error().Err(err).Int64("id", id).Msg("error while checking if ad exists")
+	if err != nil && !errors.Is(err, ErrAdNotFound) {
+		log.Error().Err(err).Int64("id", ad.ListID).Msg("error while getting ad from storage")
 
-		return false
+		return nil
 	}
 
-	return ad.ListID != 0
+	if ad.ListID > 0 {
+		return &ad
+	}
+
+	return nil
 }
 
 func (c *crawler) save(ad Ad) error {

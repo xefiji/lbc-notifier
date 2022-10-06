@@ -1,5 +1,10 @@
 {{range .Ads}}
 <h2>{{.Subject}} à <strong>{{.GetPrice}}</strong></h2>
+
+{{if .HasDecreased}}
+    <h3 style="color: green;"><strong>Price decreased! -{{.GetDifference}}</strong></h3>
+{{end}}
+
 <table>
     <tr>
         <th>Published at</th>
