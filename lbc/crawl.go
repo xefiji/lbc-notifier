@@ -29,9 +29,10 @@ type email struct {
 type repo interface {
 	save(ad Ad) (Ad, error)
 	get(id int64) (Ad, error)
+	enabled() (bool, error)
 }
 
-func Crawl(opts ...Option) error {
+func Crawl(opts ...Option) error { //nolint
 	cfg := new(config)
 
 	for _, opt := range opts {
@@ -40,14 +41,25 @@ func Crawl(opts ...Option) error {
 		}
 	}
 
+	repo := newRepository(
+		cfg.RedisHost,
+		cfg.RedisPort,
+		cfg.RedisPassword,
+		cfg.RedisDB,
+	)
+
+	enabled, err := repo.enabled()
+	if err != nil {
+		return err
+	}
+
+	if !enabled {
+		return errors.New("system disabled")
+	}
+
 	crawler := crawler{
-		cfg: *cfg,
-		repo: newRepository(
-			cfg.RedisHost,
-			cfg.RedisPort,
-			cfg.RedisPassword,
-			cfg.RedisDB,
-		),
+		cfg:  *cfg,
+		repo: repo,
 	}
 
 	result, err := crawler.fetch()

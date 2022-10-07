@@ -41,10 +41,20 @@ jobs:
 
       - run: make build-linux
       
-      - name: Build and push Docker image
+      - name: Build and push server Docker image
         uses: docker/build-push-action@v2
         with:
           context: ./deployment
+          file: ./deployment/server.Dockerfile
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+
+      - name: Build and push worker Docker image
+        uses: docker/build-push-action@v2
+        with:
+          context: ./deployment
+          file: ./deployment/lbc.Dockerfile
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}

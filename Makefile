@@ -1,15 +1,20 @@
 build:
 	cp -R docs deployment/dist
-	go build -o deployment/dist/lbc cmd/lbc.go
+	go build -o deployment/dist/lbc cmd/lbc/lbc.go
+	go build -o deployment/dist/server cmd/server/server.go
 
 build-linux:
 	cp -R docs deployment/dist
-	GOOS=linux go build -o deployment/dist/lbc cmd/lbc.go
+	GOOS=linux go build -o deployment/dist/lbc cmd/lbc/lbc.go
+	GOOS=linux go build -o deployment/dist/server cmd/server/server.go
 
-run: build
+run-lbc: build
 	deployment/dist/lbc
 
-dist: build-linux
+run-server: build
+	deployment/dist/server
+
+dist-%: build-linux
 	@if [ -z "$$VERSION" ]; then \
 	echo "VERSION must be set"; \
 	exit 2; \
@@ -21,8 +26,8 @@ dist: build-linux
 		echo "Only tag can be pushed to registry"; \
 		exit 0; \
 	fi; \
-	docker build -t xefiji/lbc deployment; \
-	docker tag xefiji/lbc xefiji/lbc:$$VERSION; \
+	docker build -t xefiji/$* -f deployment/.$*.Dockerfile deployment; \
+	docker tag xefiji/$* xefiji/$*:$$VERSION; \
 
 lint:
 	golangci-lint run

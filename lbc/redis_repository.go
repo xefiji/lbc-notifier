@@ -5,11 +5,16 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"strconv"
 
 	"github.com/go-redis/redis/v9"
 )
 
-const adsKey = "ads"
+const (
+	adsKey     = "ads"
+	configKey  = "config"
+	enabledKey = "enabled"
+)
 
 var ErrAdNotFound = errors.New("add was not found")
 
@@ -63,4 +68,42 @@ func (r repository) get(id int64) (Ad, error) {
 	}
 
 	return ad, nil
+}
+
+func (r repository) disable() error {
+	ctx := context.Background()
+	if err := r.db.Set(ctx, fmt.Sprintf("%s:%s", configKey, enabledKey), false, 0).Err(); err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func (r repository) enable() error {
+	ctx := context.Background()
+	if err := r.db.Set(ctx, fmt.Sprintf("%s:%s", configKey, enabledKey), true, 0).Err(); err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func (r repository) enabled() (bool, error) {
+	ctx := context.Background()
+
+	val, err := r.db.Get(ctx, fmt.Sprintf("%s:%s", configKey, enabledKey)).Result()
+	if errors.Is(err, redis.Nil) {
+		return false, nil
+	}
+
+	if err != nil {
+		return false, err
+	}
+
+	boolValue, err := strconv.ParseBool(val)
+	if err != nil {
+		return false, err
+	}
+
+	return boolValue, nil
 }

@@ -24,32 +24,24 @@ func main() {
 func run() error {
 	return lbc.Crawl(
 		lbc.WithDryRun(
-			env("DRY_RUN", "true"),
+			lbc.Env("DRY_RUN", "true"),
 		),
 		lbc.WithRapidAPI(
-			env("API_URL", ""),
-			env("RAPIDAPI_HOST", ""),
-			env("RAPIDAPI_KEY", ""),
+			lbc.Env("API_URL", ""),
+			lbc.Env("RAPIDAPI_HOST", ""),
+			lbc.Env("RAPIDAPI_KEY", ""),
 		),
 		lbc.WithRedis(
-			env("REDIS_HOST", "localhost"),
-			env("REDIS_PORT", "6379"),
-			env("REDIS_PASSWORD", ""),
-			env("REDIS_DB", "0"),
+			lbc.Env("REDIS_HOST", "localhost"),
+			lbc.Env("REDIS_PORT", "6379"),
+			lbc.Env("REDIS_PASSWORD", ""),
+			lbc.Env("REDIS_DB", "0"),
 		),
-		lbc.WithUsers(env("USERS", "")),
+		lbc.WithUsers(lbc.Env("USERS", "")),
 		lbc.WithMailJet(
-			env("MAILJET_KEY", ""),
-			env("MAILJET_SECRET", ""),
-			env("MAIL_FROM", ""),
+			lbc.Env("MAILJET_KEY", ""),
+			lbc.Env("MAILJET_SECRET", ""),
+			lbc.Env("MAIL_FROM", ""),
 		),
 	)
-}
-
-func env(name, fallback string) string {
-	if val, ok := os.LookupEnv(name); ok {
-		return val
-	}
-
-	return fallback
 }

@@ -1,6 +1,7 @@
 package lbc
 
 import (
+	"os"
 	"strconv"
 	"strings"
 )
@@ -20,6 +21,7 @@ type config struct {
 	MailJetSecret string
 	MailFrom      string
 	ShouldExecute bool
+	ServerPort    string
 }
 
 func WithRedis(host, port, password, db string) Option {
@@ -75,4 +77,20 @@ func WithDryRun(dryRun string) Option {
 
 		return nil
 	}
+}
+
+func WithServer(port string) Option {
+	return func(cfg *config) error {
+		cfg.ServerPort = port
+
+		return nil
+	}
+}
+
+func Env(name, fallback string) string {
+	if val, ok := os.LookupEnv(name); ok {
+		return val
+	}
+
+	return fallback
 }
